@@ -1,0 +1,25 @@
+<!doctype html>
+
+<head>
+    <style type="text/css">
+       div.stlviewer { height: 500px; }
+    </style>
+    <script type=text/javascript> 
+	window.onload=function() {
+		STLViewerEnable("stlviewer");
+	 } 
+    </script>
+    <script src="/three.js/build/three.min.js"></script>
+    <script src="/three.js/examples/js/WebGL.js"></script>
+    <script src="/three.js/examples/js/loaders/STLLoader.js"></script>
+    <script src="/three.js/examples/js/controls/OrbitControls.js"></script>
+    <script src="/stlviewer.js"></script>
+    <title>A Simple STL Viewer with Three.js</title>
+</head>
+
+<body>
+    <h1>
+        A Simple STL Viewer with Three.js
+    </h1>
+    <div class=stlviewer data-src=hook.stl></div>
+</body>
