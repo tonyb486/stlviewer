@@ -6,8 +6,22 @@
     </style>
     <script type=text/javascript> 
 	window.onload=function() {
-		STLViewerEnable("stlviewer");
+		STLViewerEnable("stlviewer", "19_TRIAD.stl");
 	 } 
+
+    </script>
+    <script>
+        function myFunction() {
+        var x = document.getElementById("frame").value;
+        var y = document.getElementById("color").value;
+        console.log(x)
+        document.getElementById("demo").remove()
+        var elemDiv = document.createElement('div');
+        elemDiv.className = "stlviewer"
+        elemDiv.id = "demo"
+        document.body.appendChild(elemDiv);
+		STLViewerEnable("stlviewer", x, y);
+        }
     </script>
     <script src="/three.js/build/three.min.js"></script>
     <script src="/three.js/examples/js/WebGL.js"></script>
@@ -21,5 +35,16 @@
     <h1>
         A Simple STL Viewer with Three.js
     </h1>
-    <div class=stlviewer data-src=hook.stl></div>
+    <label for="cars">Choose a car:</label>
+
+<select name="cars" id="frame" onchange="myFunction()">
+  <option value="19_TRIAD.stl">TRIAD</option>
+  <option value="19_TWISTY_GRIPPY.stl">TWISTY_GRIPPY</option>
+  <option value="19_TRI_S.stl">Tri S</option>
+  <option value="19_STARS.stl">Stars</option>
+</select>
+    <input type="color" id="color" name="head" onchange="myFunction()"
+           value="#e66465">
+    <label for="head">Head</label>
+    <div id = "demo" class=stlviewer data-src=19_STARS.stl ></div>
 </body>
