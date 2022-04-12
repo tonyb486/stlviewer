@@ -24,7 +24,7 @@ function STLViewer(elem, model, color_hx) {
         camera.updateProjectionMatrix();
     }, false);
 
-    var controls = new THREE.OrbitControls(camera, renderer.domElement);
+    var controls = new ArcballControls(camera, renderer.domElement);
     controls.enableDamping = true;
     controls.rotateSpeed = 0.05;
     controls.dampingFactor = 0.1;
@@ -34,20 +34,34 @@ function STLViewer(elem, model, color_hx) {
     controls.autoRotateSpeed = .75;
 
     var scene = new THREE.Scene();
-
+    bg_col = new THREE.Color("6A6060");
+    scene.background =  bg_col
     scene.add(new THREE.HemisphereLight(0xffffff, 0x080820, 1.5));
 
-    var slide_geo = "slide.stl";
+    controls.addEventListener( 'change', function () {
+	    renderer.render( scene, camera );
+    } );
+    var slide_geo = "un_cahced_slide.stl";
     (new THREE.STLLoader()).load(slide_geo, function (geometry) {
-        var slide_mat = new THREE.MeshPhongMaterial({ color: 0x00ff00, specular: 100, shininess: 100 });
+        var slide_mat = new THREE.MeshPhongMaterial({ color: 0x877348, specular: 100, shininess: 95 });
         var slide = new THREE.Mesh(geometry, slide_mat);
         scene.add(slide);
-        slide.position.z += 40;
-        slide.scale.x -= .2;
+        //slide.position.z += 40;
+        //slide.scale.x -= .2;
         slide.rotation.z += 3.14159;
     });
+    var parts_geo = "parts.stl";
+    (new THREE.STLLoader()).load(parts_geo, function (geometry) {
+        var parts_mat = new THREE.MeshPhongMaterial({ color: 0x171616, specular: 55, shininess: 95 });
+        var parts = new THREE.Mesh(geometry, parts_mat);
+        scene.add(parts);
+
+        //slide.position.z += 40;
+        //slide.scale.x -= .2;
+        parts.rotation.z += 3.14159;
+    });
     (new THREE.STLLoader()).load(model, function (geometry) {
-        var material = new THREE.MeshPhongMaterial({ color: color_hx, specular: 100, shininess: 100 });
+        var material = new THREE.MeshPhongMaterial({ color: color_hx, specular: 100, shininess: 65 });
         var mesh = new THREE.Mesh(geometry, material);
         scene.add(mesh);
         // Compute the middle
@@ -60,6 +74,7 @@ function STLViewer(elem, model, color_hx) {
         mesh.position.y = -1 * middle.y;
         mesh.position.z = -1 * middle.z;
 
+        mesh.rotation.z += 3.14159;
 
         // Pull the camera away as needed
         var largestDimension = Math.max(geometry.boundingBox.max.x,
