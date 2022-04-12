@@ -7,12 +7,12 @@ function STLViewerEnable(classname, stl_name, col) {
 }
 
 function STLViewer(elem, model, color_hx) {
-
-    if (!WEBGL.isWebGLAvailable()) {
-        elem.appendChild(WEBGL.getWebGLErrorMessage());
+    /*
+    if (!THREE.isWebGLAvailable()) {
+        elem.appendChild(THREE.getWebGLErrorMessage());
         return;
     }
-
+    */
     var renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
     var camera = new THREE.PerspectiveCamera(70, elem.clientWidth / elem.clientHeight, 1, 1000);
     renderer.setSize(elem.clientWidth, elem.clientHeight);
@@ -24,18 +24,17 @@ function STLViewer(elem, model, color_hx) {
         camera.updateProjectionMatrix();
     }, false);
 
-    var controls = new ArcballControls(camera, renderer.domElement);
+    var controls = new THREE.ArcballControls(camera, renderer.domElement);
     controls.enableDamping = true;
     controls.rotateSpeed = 0.05;
     controls.dampingFactor = 0.1;
     controls.enableZoom = true;
     controls.enablePan = true;
     controls.autoRotate = false;
-    controls.autoRotateSpeed = .75;
 
     var scene = new THREE.Scene();
-    bg_col = new THREE.Color("6A6060");
-    scene.background =  bg_col
+    bg_col = new THREE.Color("#6A6060");
+    scene.background =  bg_col;
     scene.add(new THREE.HemisphereLight(0xffffff, 0x080820, 1.5));
 
     controls.addEventListener( 'change', function () {
@@ -43,7 +42,19 @@ function STLViewer(elem, model, color_hx) {
     } );
     var slide_geo = "un_cahced_slide.stl";
     (new THREE.STLLoader()).load(slide_geo, function (geometry) {
-        var slide_mat = new THREE.MeshPhongMaterial({ color: 0x877348, specular: 100, shininess: 95 });
+        var x = document.getElementById("slide").value;
+        if(x.indexOf("FDE") != -1){
+            var slide_mat = new THREE.MeshPhongMaterial({ color: 0x877348, specular: 100, shininess: 95 });
+        }
+        if(x.indexOf("BLK")!= -1){
+            var slide_mat = new THREE.MeshPhongMaterial({ color: 0x0f0f0f, specular: 100, shininess: 95 });
+        }
+        if(x.indexOf("SGR")!= -1){
+            var slide_mat = new THREE.MeshPhongMaterial({ color: 0x5e5b4a, specular: 100, shininess: 95 });
+        }
+        if(x.indexOf("GRY")!= -1){
+            var slide_mat = new THREE.MeshPhongMaterial({ color: 0x666970, specular: 100, shininess: 95 });
+        }
         var slide = new THREE.Mesh(geometry, slide_mat);
         scene.add(slide);
         //slide.position.z += 40;
@@ -74,8 +85,15 @@ function STLViewer(elem, model, color_hx) {
         mesh.position.y = -1 * middle.y;
         mesh.position.z = -1 * middle.z;
 
-        mesh.rotation.z += 3.14159;
+        mesh.rotation.z += Math.PI;
+        //console.log(model.indexOf("BIGGUS"))
+        if(model.indexOf("BIGGUS-DICKUS") != -1){
+            mesh.rotation.z += Math.PI/2;
+            mesh.position.z += -39;
+            mesh.position.x += 17;
+            mesh.position.y += -5;
 
+        }
         // Pull the camera away as needed
         var largestDimension = Math.max(geometry.boundingBox.max.x,
             geometry.boundingBox.max.y, geometry.boundingBox.max.z)
