@@ -6,9 +6,10 @@
 
     <style type="text/css">
        div.stlviewer { height: 900px;
-        width: 1200px;
+        width: 100%;
         margin: auto;
-        width: 50%;
+        top: 0px;
+        position: absolute;
      }
     </style>
     <!-- JavaScript Bundle, Popper -->
@@ -41,29 +42,44 @@
     <title>A Simple STL Viewer, Three.js</title>
 </head>
 
-<body>
-    <h1>
+<body style="background-color: #6A6060;">
+    <div class = "card" style="width: 36rem; z-index: 1;">
+    <h1 style="z-index: 2;">
         Dagger Configurator
     </h1>
-    <div class = "card" style="width: 36rem;">
     <label for="cars">Frame</label>
 
 <select class ="form-select" name="cars" id="frame" onchange="myFunction()">
-    <option value="19-BLONK.STL">19-BLONK.STL</option>
-    <option value="19-BIGGUS-DICKUS-BIG-CORAL.STL">19-BIGGUS-DICKUS-BIG-CORAL.STL</option>
-    <option value="19-BIGGUS-DICKUS-ENGRAVED.STL">19-BIGGUS-DICKUS-ENGRAVED.STL</option>
-    <option value="19-BIGGUS-DICKUS-HEX.STL">19-BIGGUS-DICKUS-HEX.STL</option>
-    <option value="19-BIGGUS-DICKUS-SMALL-CORAL.STL">19-BIGGUS-DICKUS-SMALL-CORAL.STL</option>
-    <option value="19-BIGGUS-DICKUS-STANDARD.STL">19-BIGGUS-DICKUS-STANDARD.STL</option>
-    <option value="19-BIGGUS-DICKUS-TRIANGLE.STL">19-BIGGUS-DICKUS-TRIANGLE.STL</option>
-    <option value="19-BIGGUS-DICKUS-TRIPPY.STL">19-BIGGUS-DICKUS-TRIPPY.STL</option>
-    <option value="19-BUBBLES.STL">19-BUBBLES.STL</option>
-    <option value="19-BUMPS.STL">19-BUMPS.STL</option>
-    <option value="19-FLAME.STL">19-FLAME.STL</option>
-    <option value="19_SPIRAL.STL">19_SPIRAL.STL</option>
-    <option value="19_TRIAD.STL">19_TRIAD.STL</option>
-    <option value="19_TRI_S.STL">19_TRI_S.STL</option>
-    <option value="19_TWISTY_GRIPPY.STL">19_TWISTY_GRIPPY.STL</option>
+<option value="19-BLONK.STL">19-BLONK</option>
+<option value="19 BIG CORAL NO MICROTEXTURE.STL">19 BIG CORAL NO MICROTEXTURE</option>
+<option value="19 BIG CORAL.STL">19 BIG CORAL</option>
+<option value="19 ENGRAVED NO MICROTEXTURE.STL">19 ENGRAVED NO MICROTEXTURE</option>
+<option value="19 ENGRAVED.STL">19 ENGRAVED</option>
+<option value="19 HEX NO MICROTEXTURE.STL">19 HEX NO MICROTEXTURE</option>
+<option value="19 HEX.STL">19 HEX</option>
+<option value="19 SMALL CORAL NO MICROTEXTURE.STL">19 SMALL CORAL NO MICROTEXTURE</option>
+<option value="19 SMALL CORAL.STL">19 SMALL CORAL</option>
+<option value="19 STANDARD NO MICROTEXTURE.STL">19 STANDARD NO MICROTEXTURE</option>
+<option value="19 STANDARD.STL">19 STANDARD</option>
+<option value="19 TRIANGLE NO MICOTEXTURE.STL">19 TRIANGLE NO MICOTEXTURE</option>
+<option value="19 TRIANGLE.STL">19 TRIANGLE</option>
+<option value="19 TRIPPY NO MICROTEXTURE.STL">19 TRIPPY NO MICROTEXTURE</option>
+<option value="19 TRIPPY.STL">19 TRIPPY</option>
+<option value="19-BIGGUS-DICKUS-BIG-CORAL.STL">19-BIGGUS-DICKUS-BIG-CORAL</option>
+<option value="19-BIGGUS-DICKUS-ENGRAVED.STL">19-BIGGUS-DICKUS-ENGRAVED</option>
+<option value="19-BIGGUS-DICKUS-HEX.STL">19-BIGGUS-DICKUS-HEX</option>
+<option value="19-BIGGUS-DICKUS-SMALL-CORAL.STL">19-BIGGUS-DICKUS-SMALL-CORAL</option>
+<option value="19-BIGGUS-DICKUS-STANDARD.STL">19-BIGGUS-DICKUS-STANDARD</option>
+<option value="19-BIGGUS-DICKUS-TRIANGLE.STL">19-BIGGUS-DICKUS-TRIANGLE</option>
+<option value="19-BIGGUS-DICKUS-TRIPPY.STL">19-BIGGUS-DICKUS-TRIPPY</option>
+
+<option value="19-BUBBLES.STL">19-BUBBLES</option>
+<option value="19-BUMPS.STL">19-BUMPS</option>
+<option value="19-FLAME.STL">19-FLAME</option>
+<option value="19_SPIRAL.STL">19_SPIRAL</option>
+<option value="19_TRIAD.STL">19_TRIAD</option>
+<option value="19_TRI_S.STL">19_TRI_S</option>
+<option value="19_TWISTY_GRIPPY.STL">19_TWISTY_GRIPPY</option>
 </select>
 <br>
     <label for="slide">Slide</label>
@@ -74,10 +90,14 @@
     <option value="PSA_STANDARD_SGR">PSA DAGGER SLIDE ASSEMBLY, NON-THREADED BARREL, CARRY CUT, SNIPER GREEN</option>
 </select>
 <br>
+<div class="form-row">
     <input type="color" id="color" name="head" onchange="myFunction()"
            value="#FFFFFF">
     <label for="head">Frame Color</label>
+    <button onclick="find_same_color()" id ="find_btn"> Find Closest PLA</button>
+    </div>
+<div id = "pla_link"></div>
 </div>
 
-    <div id = "demo" class=stlviewer data-src=19-BLONK.stl ></div>
+    <div id = "demo" class=stlviewer data-src=19-BLONK.STL ></div>
 </body>
