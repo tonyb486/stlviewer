@@ -121,7 +121,9 @@ function STLViewer(elem, model, color_hx) {
     scene.background =  bg_col;
     scene.add(new THREE.HemisphereLight(0xffffff, 0x080820, 1.5));
     const loader = new THREE.TextureLoader();
-    bgTexture = loader.load("bong_rip.jpg",
+    const items = ["weed_flower.jpg", "bong_rip.jpg"]
+    var weed_bg = items[Math.floor(Math.random()*items.length)];
+    bgTexture = loader.load(weed_bg,
     function ( texture ) {
         var img = texture.image;
         bgWidth= img.width;
@@ -229,7 +231,9 @@ function STLViewer(elem, model, color_hx) {
         var largestDimension = Math.max(geometry.boundingBox.max.x,
             geometry.boundingBox.max.y, geometry.boundingBox.max.z)
         camera.position.z = largestDimension * 3.3;
-
+        camera.position.x = largestDimension/2 ;
+        //camera.rotation.z  -= Math.PI;
+        //camera.rotation.y  -= Math.PI;
         //camera.position.y = largestDimension * 1;
 
         var animate = function () {
