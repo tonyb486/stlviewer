@@ -120,7 +120,16 @@ function STLViewer(elem, model, color_hx) {
     bg_col = new THREE.Color("#6A6060");
     scene.background =  bg_col;
     scene.add(new THREE.HemisphereLight(0xffffff, 0x080820, 1.5));
-
+    const loader = new THREE.TextureLoader();
+    bgTexture = loader.load("bong_rip.jpg",
+    function ( texture ) {
+        var img = texture.image;
+        bgWidth= img.width;
+        bgHeight = img.height;
+    } );
+    bgTexture.wrapS = THREE.MirroredRepeatWrapping;
+    bgTexture.wrapT = THREE.MirroredRepeatWrapping;
+    //scene.background = bgTexture;
     controls.addEventListener( 'change', function () {
 	    renderer.render( scene, camera );
     } );
@@ -144,6 +153,12 @@ function STLViewer(elem, model, color_hx) {
         //slide.position.z += 40;
         //slide.scale.x -= .2;
         slide.rotation.z += 3.14159;
+        //rotate to look better
+        /*
+        slide.rotation.y  -= Math.PI/8;
+        slide.rotation.z  -= Math.PI/4;
+        slide.rotation.x  -= Math.PI/4;
+        */
     });
     var parts_geo = "parts.stl";
     (new THREE.STLLoader()).load(parts_geo, function (geometry) {
@@ -151,10 +166,14 @@ function STLViewer(elem, model, color_hx) {
         var parts = new THREE.Mesh(geometry, parts_mat);
         scene.add(parts);
 
-        //slide.position.z += 40;
-        //slide.scale.x -= .2;
         parts.rotation.z += 3.14159;
-    });
+        //rotate to look better
+        /*
+        parts.rotation.y  -= Math.PI/8;
+        parts.rotation.z  -= Math.PI/4;
+        parts.rotation.x  -= Math.PI/4;
+        */
+   });
     (new THREE.STLLoader()).load(model, function (geometry) {
         var material = new THREE.MeshPhongMaterial({ color: color_hx, specular: 100, shininess: 65 });
         var mesh = new THREE.Mesh(geometry, material);
@@ -188,11 +207,30 @@ function STLViewer(elem, model, color_hx) {
             mesh.position.y += -16;
 
         }
-        // Pull the camera away as needed
+        if(model.indexOf("glong19") != -1){
+            //pass the glong bro
+            
+            mesh.rotation.y -= Math.PI/2;
+            mesh.rotation.x -= Math.PI/2;
+            console.log(model.indexOf("19 "))
+            mesh.position.z += -30;
+            mesh.position.x += 6;
+            mesh.position.y += 22;
+            scene.background = bgTexture;
+
+        }
+        //rotate to look better
+        /*
+            mesh.rotation.y  -= Math.PI/8;
+            mesh.rotation.z  -= Math.PI/4;
+            
+            mesh.rotation.x  -= Math.PI/4;
+        */        // Pull the camera away as needed
         var largestDimension = Math.max(geometry.boundingBox.max.x,
             geometry.boundingBox.max.y, geometry.boundingBox.max.z)
-        camera.position.z = largestDimension * 1.5;
+        camera.position.z = largestDimension * 3.3;
 
+        //camera.position.y = largestDimension * 1;
 
         var animate = function () {
             requestAnimationFrame(animate);
