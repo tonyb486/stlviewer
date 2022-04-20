@@ -121,7 +121,7 @@ function STLViewer(elem, model, color_hx) {
     scene.background =  bg_col;
     scene.add(new THREE.HemisphereLight(0xffffff, 0x080820, 1.5));
     const loader = new THREE.TextureLoader();
-    const items = ["weed_flower.jpg", "bong_rip.jpg"]
+    const items = ["weed_flower.jpg", "bong_rip.jpg", "funny_joint.jpg"]
     var weed_bg = items[Math.floor(Math.random()*items.length)];
     bgTexture = loader.load(weed_bg,
     function ( texture ) {
