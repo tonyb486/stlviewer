@@ -33,10 +33,17 @@
         document.body.appendChild(elemDiv);
 		STLViewerEnable("stlviewer", x, y);
         }
+        function color_update(){
+            var color_hx = document.getElementById("color").value;
+            var material = new THREE.MeshPhongMaterial({ color: color_hx, specular: 100, shininess: 65 });
+            hold_frame.material = material
+            
+        }
     </script>
     <script src="three.js/build/three.min.js"></script>
     
     <script src="three.js/examples/js/loaders/STLLoader.js"></script>
+    <script src="three.js/examples/js/loaders/GLTFLoader.js"></script>
     <script src="three.js/examples/js/controls/ArcballControls.js"></script>
     <script src="new_stlviewer.js"></script>
     <title>A Simple STL Viewer, Three.js</title>
@@ -91,7 +98,7 @@
 </select>
 <br>
 <div class="form-row">
-    <input type="color" id="color" name="head" onchange="myFunction()"
+    <input type="color" id="color" name="head" onchange="color_update()"
            value="#FFFFFF">
     <label for="head">Frame Color</label>
     <button onclick="find_same_color()" id ="find_btn"> Find Closest PLA</button>

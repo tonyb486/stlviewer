@@ -119,6 +119,19 @@ function STLViewer(elem, model, color_hx) {
     var scene = new THREE.Scene();
     bg_col = new THREE.Color("#6A6060");
     scene.background =  bg_col;
+    /*
+    const hemiLight = new THREE.HemisphereLight( 0xffffff, 0xffffff, 0.6 );
+	hemiLight.color.setHSL( 0.6, 1, 0.6 );
+	hemiLight.groundColor.setHSL( 0.095, 1, 0.75 );
+	hemiLight.position.set( 0, 0, 1000 );
+    scene.add(hemiLight)
+    				const hemiLightHelper = new THREE.HemisphereLightHelper( hemiLight, 10 );
+				scene.add( hemiLightHelper );
+                */
+const color = 0xFFFFFF;
+const intensity = .08;
+const light = new THREE.AmbientLight(color, intensity);
+scene.add(light);
     scene.add(new THREE.HemisphereLight(0xffffff, 0x080820, 1.5));
     const loader = new THREE.TextureLoader();
     const items = ["weed_flower.jpg", "bong_rip.jpg", "funny_joint.jpg"]
@@ -138,19 +151,25 @@ function STLViewer(elem, model, color_hx) {
     var slide_geo = "un_cahced_slide.stl";
     (new THREE.STLLoader()).load(slide_geo, function (geometry) {
         var x = document.getElementById("slide").value;
+        //sl_material = new THREE.MeshBasicMaterial( { color: 0xffff00 , fog: false} );
+        //slide_mat = new THREE.MeshPhongMaterial({ color: 0xffff00, wireframe: false});
         if(x.indexOf("FDE") != -1){
-            var slide_mat = new THREE.MeshPhongMaterial({ color: 0x877348, specular: 100, shininess: 95 });
+            slide_mat =new THREE.MeshPhongMaterial({ color:   0x877348, specular: 100, shininess: 65 });
         }
         if(x.indexOf("BLK")!= -1){
-            var slide_mat = new THREE.MeshPhongMaterial({ color: 0x0f0f0f, specular: 100, shininess: 95 });
+   
+            slide_mat =new THREE.MeshPhongMaterial({ color:  0x0f0f0f, specular: 100, shininess: 65 });
         }
         if(x.indexOf("SGR")!= -1){
-            var slide_mat = new THREE.MeshPhongMaterial({ color: 0x5e5b4a, specular: 100, shininess: 95 });
+            slide_mat =new THREE.MeshPhongMaterial({ color:  0x5e5b4a, specular: 100, shininess: 65 });
         }
         if(x.indexOf("GRY")!= -1){
-            var slide_mat = new THREE.MeshPhongMaterial({ color: 0x666970, specular: 100, shininess: 95 });
+            slide_mat =new THREE.MeshPhongMaterial({ color:  0x666970, specular: 100, shininess: 65 });
         }
+        //new_geometry = geometry.scene.children[0].geometry;
         var slide = new THREE.Mesh(geometry, slide_mat);
+        //slide = geometry.scene;
+        //slide = geometry.scene
         scene.add(slide);
         //slide.position.z += 40;
         //slide.scale.x -= .2;
@@ -164,21 +183,23 @@ function STLViewer(elem, model, color_hx) {
     });
     var parts_geo = "parts.stl";
     (new THREE.STLLoader()).load(parts_geo, function (geometry) {
-        var parts_mat = new THREE.MeshPhongMaterial({ color: 0x171616, specular: 55, shininess: 95 });
+        var parts_mat = new THREE.MeshPhongMaterial({ color: 0x171616, specular: 100, shininess: 65 });
+        //var parts = new THREE.Mesh(geometry, parts_mat);
+        //new_geometry = geometry.scene.children[0].geometry;
         var parts = new THREE.Mesh(geometry, parts_mat);
-        scene.add(parts);
-
+        scene.add(parts)
         parts.rotation.z += 3.14159;
+        //parts.rotation.x  -= Math.PI/2;
         //rotate to look better
         /*
         parts.rotation.y  -= Math.PI/8;
         parts.rotation.z  -= Math.PI/4;
-        parts.rotation.x  -= Math.PI/4;
         */
    });
     (new THREE.STLLoader()).load(model, function (geometry) {
         var material = new THREE.MeshPhongMaterial({ color: color_hx, specular: 100, shininess: 65 });
         var mesh = new THREE.Mesh(geometry, material);
+        hold_frame = mesh
         scene.add(mesh);
         // Compute the middle
         var middle = new THREE.Vector3();

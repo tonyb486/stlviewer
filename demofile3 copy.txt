@@ -1,0 +1,567 @@
+3A353C, None, https://amzn.to/3rkyeBP, Enhanced PLA, Plas3D, https://plas3d.com
+688356, https://www.nhh.com.hk/en/3dprinting/product_detail.html?id=1, None, PLA, NHH, https://www.nhh.com.hk/en/3dprinting/Product.html
+C8AB13, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-golden-winner, None, PLA, Printed Solid, https://www.printedsolid.com
+2C3274, https://www.microcenter.com/product/611554/inland-175mm-dark-blue-pla-3d-printer-filament-1kg-spool-(22-lbs), None, PLA+, Inland, https://www.microcenter.com
+A73225, https://www.ziro3d.com/products/ziro-diamond-pla-filament-red-175mm-1kg-87, https://amzn.to/37GxAru, PLA, Ziro, http://www.ziro3d.com
+DD5124, https://amolen.com/collections/pla/products/amolen-pla-3d-printer-filament-1-75mm-filament-1kg-brick-red, https://amzn.to/3E6i704, PLA, Amolen, None
+9FA3A4, None, None, PLA, Amolen, None
+FCFCFC, https://www.reprappertech.com/products/reprapper-pla-3d-printer-filament-175mm-%C2%B1-003mm-22lb-1kg,-fit-most-fdm-printer-3d-pen?VariantsId=10010, None, PLA, Reprapper, https://www.reprappertech.com/
+FAFBFA, None, https://amzn.to/3LYuNJ9, PLA, eSUN, https://esun3dstore.com/
+4A4249, None, https://amzn.to/3uXYuCS, PLA, Hello3D, http://www.hello3dprint.com/
+C62F2C, https://eryone3d.com/collections/glitter-pla/products/eryone-galaxy-sparkly-glitter-pla-3d-printer-filament-1-75mm-dimensional-accuracy-0-05-mm-1kg-2-2lbs-spool, https://amzn.to/38sGt8p, PLA, Eryone, https://eryone3d.com/
+C79B58, None, https://amzn.to/3NGBjpk, PLA, Amolen, None
+FBF3DA, https://www.alibaba.com/product-detail/3D-Wood-Pla-Filament-3D-Extruder_62130029063.html?spm=a2700.shop_plser.41413.18.38671424kHp486, https://amzn.to/3IZeDx6, PLA, Sunlu, https://sunlugw.en.alibaba.com/
+F94A4C, None, https://amzn.to/3LDJZef, PLA, HZST 3D, https://www.amazon.com/s?k=HZST3D
+7C778D, None, https://amzn.to/3IZeb1S, PLA, TTYT3D, https://www.amazon.com/stores/TTYT3D/%E4%B8%BB%E9%A1%B5/page/FE4E7A29-1E7C-4F86-8509-DA6E47E96C8D
+C85461, None, None, PLA, Printed Solid, https://www.printedsolid.com
+B9C3CC, None, https://www.amazon.com/Filament-Printing-Material-Lavender-SHENGTIAN/dp/B07NN4VKFQ?th=1, PLA, HZST 3D, https://www.amazon.com/s?k=HZST3D
+DCFE02, None, https://amzn.to/3j54y7j, PLA, Amazon Basics, https://amazon.com
+B8DE19, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-green-slime-glitter, None, PLA, Printed Solid, https://www.printedsolid.com
+FA828E, None, None, PLA, Printed Solid, https://www.printedsolid.com
+A48167, https://www.azurefilm.com/en/wood-filament-cork, None, PLA, AzureFilm, https://www.azurefilm.com/
+FBFCF4, https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329912541443, None, PLA+, Eolas Prints, https://eolasprints.com/
+7D513B, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-brown, None, PLA, Printed Solid, https://www.printedsolid.com
+FDA33A, https://www.microcenter.com/product/623250/inland-175mm-orange-tough-pla-3d-printer-filament-1kg-spool-(22-lbs), https://amzn.to/3j2t34U, PLA+, Inland, https://www.microcenter.com
+E8C9A3, https://www.hatchbox3d.com/products/3d-wood-1kg1-75?_pos=3&_sid=878bc384e&_ss=r, https://amzn.to/36TxiNF, PLA, Hatchbox, https://hatchbox3d.com/
+DAC784, https://amolen.com/products/amolen-3d-printer-filament-frosted-bronze-1-75mm-pla-filament-0-03-mm-1kg-200g, None, PLA, Amolen, None
+A3ACB2, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-overcast-grey-glitter, None, PLA, Printed Solid, https://www.printedsolid.com
+A0DAF6, https://shop.fillamentum.com/products/pla-extrafill-crystal-clear-iceland-blue, None, PLA, Fillamentum, https://fillamentum.com/
+F30B0B, https://www.ziro3d.com/products/ziro-twinkling-pla-filament-red-175mm-1kg-92, None, PLA, Ziro, http://www.ziro3d.com
+F8160A, https://us.polymaker.com/products/polymax-pla?variant=39574349643833, None, PolyMax PLA, Polymaker, https://polymaker.com/
+FA98AB, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-pink, None, PLA, Printed Solid, https://www.printedsolid.com
+B2D4E4, https://us.sunlu.com/products/twinkling-blue-pla-1-75mm-filament-1kg-2-2lbs-fit-most-of-fdm-printer, None, PLA, Enotepad, https://enotepad.shop/
+2C292B, https://www.hatchbox3d.com/products/3d-pla-1kg1-75-blk?_pos=5&_sid=c3408798d&_ss=r, https://amzn.to/3uiCz9i, PLA, Hatchbox, https://hatchbox3d.com/
+0505E8, https://www.hatchbox3d.com/products/3d-pla-1kg1-75-blu?_pos=2&_sid=c6e763e72&_ss=r, https://amzn.to/3L3KGxl, PLA, Hatchbox, https://hatchbox3d.com/
+F80A09, https://www.hatchbox3d.com/products/title?_pos=9&_sid=5434c1c8c&_ss=r, None, PLA, Hatchbox, https://hatchbox3d.com/
+FBFB05, https://www.hatchbox3d.com/products/3d-pla-1kg1-75-ylw?_pos=5&_sid=b128bc4aa&_ss=r, https://amzn.to/3wuCwtB, PLA, Hatchbox, https://hatchbox3d.com/
+2DEF8E, https://www.hatchbox3d.com/products/3d-pla-1kg1-75-grn?_pos=1&_sid=07825873c&_ss=r, https://amzn.to/36AgLOi, PLA, Hatchbox, https://hatchbox3d.com/
+FBEF3B, https://www.ic3dprinters.com/shop/pla-filaments/, None, PLA, IC3D, https://ic3dprinters.com/
+FA6E06, https://www.filamentone.com/products/filamentone-pla-pro-select-flash-orange-transparent-1-75mm-1kg-3d-printer-filament?_pos=1&_sid=8bf26648f&_ss=r, None, PLA Pro Select, FilamentOne, https://www.filamentone.com/
+FEF3EA, None, None, PLA Pro Select, FilamentOne, https://www.filamentone.com/
+F2C595, None, None, PLA Pro Select, FilamentOne, https://www.filamentone.com/
+DBC69B, https://www.filamentone.com/products/filamentone-pla-pro-select-glint-gold-1-75mm-1kg-3d-printer-filament?_pos=1&_sid=dab82be66&_ss=r, None, PLA Pro Select, FilamentOne, https://www.filamentone.com/
+F2FBFA, None, None, PLA Pro Select, FilamentOne, https://www.filamentone.com/
+FCFCFC, None, https://amzn.to/365PGmo, PLA+, eSUN, https://esun3dstore.com/
+B0784F, None, https://amzn.to/3N7Z8WI, PLA+, eSUN, https://esun3dstore.com/
+FBFB04, None, https://www.amazon.com/eSUN-1-75mm-Purple-Printer-Filament/dp/B01EKEMS06/ref=sr_1_3?keywords=eSUN%2BPurple%2BPLA&qid=1647751043&sr=8-3&th=1, PLA+, eSUN, https://esun3dstore.com/
+9606BC, None, https://amzn.to/3L182U2, PLA+, eSUN, https://esun3dstore.com/
+F4F6F5, https://colorfabb.com/laser-marking-pla, None, PLA, ColorFabb, https://colorfabb.com
+767E5E, https://www.prusa3d.com/product/prusament-premium-pla-mystic-green-1kg-2/, https://www.amazon.com/Prusament-Mystic-Filament-Diameter-Tolerance/dp/B07QV27J33/ref=sr_1_3?keywords=Prusament+Mystic+Green+PLA&qid=1647750758&sr=8-3, PLA, Prusament, https://shop.prusa3d.com/en/42-prusament
+F7F7F6, None, https://www.amazon.com/Printer-Filament-Hello3D-Firefly-Luminous/dp/B07ZQ2599X/ref=cm_cr_arp_d_product_top?ie=UTF8, PLA, Hello3D, http://www.hello3dprint.com/
+FDA202, None, None, PLA, Plas3D, https://plas3d.com
+D0FB91, https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+5E5261, https://shop.filamentpm.com/filament-pm-pla-graphite-black-1-75-mm-0-5-kg, None, PLA, Filament PM, https://www.filament-pm.com
+0656B7, https://shop.filamentpm.com/filament-pm-pla-pearl-blue-1-75-mm-1-kg, None, PLA, Filament PM, https://www.filament-pm.com
+0CD46E, https://shop.filamentpm.com/filament-pm-pla-pearl-green-1-75-mm-1-kg, None, PLA, Filament PM, https://www.filament-pm.com
+E2FB3C, https://www.pushplastic.com/collections/all-filament/products/pla-1kg, None, PLA, Push Plastic, https://www.pushplastic.com/
+FA93AB, https://www.pushplastic.com/collections/all-filament/products/pla-1kg, None, PLA, Push Plastic, https://www.pushplastic.com/
+F4F4F4, https://www.pushplastic.com/collections/all-filament/products/pla-1kg, None, PLA, Push Plastic, https://www.pushplastic.com/
+CFFB92, https://www.pushplastic.com/collections/all-filament/products/pla-1kg, None, PLA, Push Plastic, https://www.pushplastic.com/
+FAE2BD, https://www.repkord.com/collections/3d-printing-filament/products/coyote-tan-1-75-pla, None, PLA, Repkord, https://www.repkord.com/
+ABACB3, https://www.repkord.com/products/gunmetal-gray-1-75-pla, None, PLA, Repkord, https://www.repkord.com/
+757D4F, https://www.repkord.com/collections/3d-printing-filament/products/army-od-green-1-75-pla, None, PLA, Repkord, https://www.repkord.com/
+3C3842, https://www.repkord.com/collections/3d-printing-filament/products/black-ops-1-75-pla, None, PLA, Repkord, https://www.repkord.com/
+FB3333, https://www.repkord.com/collections/3d-printing-filament/products/rep-red-1-75-pla, None, PLA, Repkord, https://www.repkord.com/
+7D06BF, https://www.repkord.com/collections/3d-printing-filament/products/limited-edition-500g-purple-haze-1-75mm-pla, None, PLA, Repkord, https://www.repkord.com/
+FB9F29, https://www.repkord.com/collections/3d-printing-filament/products/bb8-orange-1-75-pla, None, PLA, Repkord, https://www.repkord.com/
+0505F4, https://www.repkord.com/collections/3d-printing-filament/products/deep-blue-1-75-pla, None, PLA, Repkord, https://www.repkord.com/
+5BAC5A, https://www.repkord.com/collections/3d-printing-filament/products/grass-green-1-75-pla, None, PLA, Repkord, https://www.repkord.com/
+FBF354, https://www.repkord.com/collections/3d-printing-filament/products/yellow-chedda-1-75-pla, None, PLA, Repkord, https://www.repkord.com/
+F966D5, https://www.repkord.com/collections/3d-printing-filament/products/limited-edition-boss-pink-pla-1-75mm-by-3dpink-mafia, None, PLA, Repkord, https://www.repkord.com/
+66F9B3, https://www.filastruder.com/products/veracity-propla-1kg-spool?_pos=7&_sid=34b9a1e68&_ss=r&variant=12233454616647, None, Pro PLA, Filastruder Veracity, https://www.filastruder.com
+8A776F, https://www.filacube.com/products/1-75mm-1kg-brown-filacube-3d-printer-pla-2-filament?_pos=2&_sid=ccc76a5b4&_ss=r, None, PLA 2, FilaCube, https://www.filacube.com/
+946ADD, https://www.filacube.com/products/1-75mm-1kg-ultra-violet-filacube-3d-printer-pla-2-filament-purple?_pos=4&_sid=adffafc05&_ss=r, None, PLA 2, FilaCube, https://www.filacube.com/
+FB9208, https://www.filacube.com/products/1-75mm-1kg-orange-pms-159c-filacube-3d-printer-pla-2-filament-burnt-orange-longhorn-long-horn-ut-university-of-texas-austin-pms-159?_pos=1&_sid=0edfdde3b&_ss=r, https://amzn.to/3N5oR21, PLA 2, FilaCube, https://www.filacube.com/
+713767, None, None, SpoolWorks PLA, E3D, https://e3d-online.com/filaments-3d-printing/spoolworks
+4F4E55, None, None, SpoolWorks PLA, E3D, https://e3d-online.com/filaments-3d-printing/spoolworks
+FEF602, None, None, SpoolWorks PLA, E3D, https://e3d-online.com/filaments-3d-printing/spoolworks
+CBCDD1, None, None, SpoolWorks PLA, E3D, https://e3d-online.com/filaments-3d-printing/spoolworks
+FCFBF7, None, None, SpoolWorks PLA, E3D, https://e3d-online.com/filaments-3d-printing/spoolworks
+F4F4F3, None, None, SpoolWorks PLA, E3D, https://e3d-online.com/filaments-3d-printing/spoolworks
+E6E9EB, https://shop.filamentpm.com/filament-pm-pla-marblejet-dark-1-75-mm-0-5-kg, https://amzn.to/3KVSFfN, PLA, Filament PM, https://www.filament-pm.com
+211C1F, https://www.3djake.com/3djake/ecopla-black, None, ecoPLA, 3DJake, https://www.3djake.com/
+FCFCFC, https://www.3djake.com/3djake/ecopla-white, None, ecoPLA, 3DJake, https://www.3djake.com/
+FBFB05, https://www.prusa3d.com/product/prusament-pla-pineapple-yellow-1kg/, https://amzn.to/3N4yNJj, PLA, Prusament, https://shop.prusa3d.com/en/42-prusament
+AC816C, https://www.tianseoffice.com/pla-4d-printing-filament-coffee.html, https://amzn.to/3Jp9vDm, PLA, Tianse-3D, https://www.facebook.com/pg/Tianse3D/shop/
+ACD4FB, None, https://amzn.to/365FzOp, PLA, 3D Solutech, http://www.3dsolutech.com/
+FBD59E, None, https://www.amazon.com/Printer-Filament-Printing-Material-DO3D/dp/B07V6J7YT8?th=1, PLA, DO3D, https://www.amazon.com/stores/DO3D/page/3BA04119-6409-41B1-9415-6F3675CC9E02
+313133, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-black?variant=39502749433941, None, PLA, Printed Solid, https://www.printedsolid.com
+F2F3F1, None, https://amzn.to/3wkVm6x, PLA, Ziro, http://www.ziro3d.com
+ffeded, None, https://amzn.to/3JvxQYf, PLA, Amazon Basics, https://amazon.com
+C704D2, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-purple-ice, None, PLA, Printed Solid, https://www.printedsolid.com
+3474CE, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-whale-grey, None, PLA, Printed Solid, https://www.printedsolid.com
+F8DEA9, https://www.proto-pasta.com/products/matte-fiber-htpla-daffodil-wood?_pos=1&_psq=daff&_ss=e&_v=1.0&variant=37153865171105, None, PLA, Proto-Pasta, https://www.proto-pasta.com
+405869, https://www.prusa3d.com/product/prusament-pla-gentleman-s-grey-1kg/, None, PLA, Prusament, https://shop.prusa3d.com/en/42-prusament
+2F2C2F, None, https://amzn.to/3J5dK64, PLA+, Inland, https://www.microcenter.com
+FCFCF6, None, None, PLA, Inland, https://www.microcenter.com
+774B2B, https://www.3dfuel.com/products/wound-coffee-filled-filament-1-75mm, https://amzn.to/37a65WT, PLA, 3D-Fuel, https://www.3dfuel.com/
+FBDA2F, https://www.3djake.com/3djake/ecopla-yellow, None, ecoPLA, 3DJake, https://www.3djake.com/
+ECEDEA, https://www.3djake.com/3djake/ecopla-transparent, None, ecoPLA, 3DJake, https://www.3djake.com/
+2CA5EB, https://www.3djake.com/3djake/ecopla-sky-blue, None, ecoPLA, 3DJake, https://www.3djake.com/
+F71D1D, https://www.3djake.com/3djake/ecopla-red, None, ecoPLA, 3DJake, https://www.3djake.com/
+FA8929, https://www.3djake.com/3djake/ecopla-neon-orange, None, ecoPLA, 3DJake, https://www.3djake.com/
+85DE48, https://www.3djake.com/3djake/ecopla-light-green, None, ecoPLA, 3DJake, https://www.3djake.com/
+DEDCD1, https://www.3djake.com/3djake/ecopla-glow, None, ecoPLA, 3DJake, https://www.3djake.com/
+200FC3, https://www.3djake.com/3djake/ecopla-dark-blue, None, ecoPLA, 3DJake, https://www.3djake.com/
+068754, https://atomicfilament.com/products/pine-green-pla-filament?_pos=2&_sid=7ad75c05d&_ss=r&variant=29765251661, None, PLA, Atomic Filament, https://atomicfilament.com/
+3189F8, https://atomicfilament.com/products/perfect-blue-pla-filament?_pos=1&_sid=f12738560&_ss=r, None, PLA, Atomic Filament, https://atomicfilament.com/
+D0D5DC, https://atomicfilament.com/products/metallic-silver-pla-filament?_pos=2&_sid=077e9c09f&_ss=r&variant=29765150541, None, PLA, Atomic Filament, https://atomicfilament.com/
+BBB4F9, https://atomicfilament.com/products/pastel-lilac-pla-filament?_pos=1&_sid=d9f8d0e9d&_ss=r&variant=29641149965, None, PLA, Atomic Filament, https://atomicfilament.com/
+F1C2EF, https://atomicfilament.com/products/silky-lilac-pla-filament?_pos=1&_sid=fad338b75&_ss=r&variant=13353585377341, None, PLA, Atomic Filament, https://atomicfilament.com/
+FA7DBB, https://atomicfilament.com/products/hot-pink-pla-filament?_pos=1&_sid=c293a6b00&_ss=r&variant=5659840897, None, PLA, Atomic Filament, https://atomicfilament.com/
+FC8E0A, None, None, PLA, Hatchbox, https://hatchbox3d.com/
+FDFD07, https://www.hatchbox3d.com/products/3d-pla-1kg1-75-ylw?_pos=11&_sid=20dc42894&_ss=r, https://amzn.to/3tmN0Jz, PLA, Hatchbox, https://hatchbox3d.com/
+FB2E24, https://www.hatchbox3d.com/products/title?_pos=9&_sid=3fd56c826&_ss=r, https://amzn.to/3tneQp8, PLA, Hatchbox, https://hatchbox3d.com/
+BE294C, None, https://amzn.to/3rklRFP, PLA, 3D Solutech, http://www.3dsolutech.com/
+777E56, https://www.pushplastic.com/collections/all-filament/products/pla-1kg, None, PLA, Push Plastic, https://www.pushplastic.com/
+DB7D6D, https://www.pushplastic.com/collections/all-filament/products/pla-1kg, None, PLA, Push Plastic, https://www.pushplastic.com/
+C9EAB7, https://www.3dfuel.com/products/standard-pla-filament-pistachio-green, https://amzn.to/3pctbzy, PLA, 3D-Fuel, https://www.3dfuel.com/
+5F636E, https://www.3dfuel.com/products/standard-pla-1-75mm-charcoal-gray, https://amzn.to/3JslUq2, PLA, 3D-Fuel, https://www.3dfuel.com/
+FBBFD2, https://www.3dfuel.com/products/standard-pla-filament-bubblegum-pink, https://amzn.to/3dbWRdC, PLA, 3D-Fuel, https://www.3dfuel.com/
+FBCD76, None, None, ST-PLA, CCTREE, http://www.cctree3dstore.com/
+FCFCFC, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-quarter-white?variant=39502749007957, None, PLA, Printed Solid, https://www.printedsolid.com
+FBD5EE, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-pure-magenta?variant=39502752383061, None, PLA, Printed Solid, https://www.printedsolid.com
+079EF6, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-pure-cyan, None, PLA, Printed Solid, https://www.printedsolid.com
+074CDD, https://shop.fillamentum.com/products/pla-extrafill-pearl-night-blue, None, PLA Extrafill, Fillamentum, https://fillamentum.com/
+2322A8, https://shop.fillamentum.com/products/pla-extrafill-nobble-blue, None, PLA Extrafill, Fillamentum, https://fillamentum.com/
+F9097C, https://shop.fillamentum.com/products/pla-extrafill-everybodys-magenta, None, PLA Extrafill, Fillamentum, https://fillamentum.com/
+353569, https://shop.fillamentum.com/products/pla-extrafill-vertigo-starlight, None, PLA Extrafill, Fillamentum, https://fillamentum.com/
+E8C562, https://shop.fillamentum.com/products/pla-extrafill-gold-happens, None, PLA Extrafill, Fillamentum, https://fillamentum.com/
+BE0C1A, https://shop.fillamentum.com/collections/pla-extrafill-filament/products/pla-extrafill-pearl-ruby-red, None, PLA Extrafill, Fillamentum, https://fillamentum.com/
+495279, https://shop.fillamentum.com/products/pla-extrafill-wizards-voodoo, None, PLA Extrafill, Fillamentum, https://fillamentum.com/
+FCFCFC, None, None, PLA, eSUN, https://esun3dstore.com/
+FAA7AF, None, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+EF49CD, None, None, PLA, Maker Geeks, https://makergeeks3d.myshopify.com/
+FCFCFC, https://overture3d.com/products/overturepla?_pos=1&_sid=9dcd6b2ce&_ss=r&variant=42105027166462, https://amzn.to/3tqEEAZ, PLA, Overture, https://overture3d.com/
+85726B, https://www.filacube.com/collections/1-75mm-filacube-pla-2-3d-printer-filaments/products/1-75mm-1kg-brown-filacube-3d-printer-pla-2-filament, https://www.amazon.com/dp/B07F263GHD/ref=twister_B07MFXHB74?_encoding=UTF8&th=1, PLA 2, FilaCube, https://www.filacube.com/
+0447F8, None, https://amzn.to/3tnlxri, PLA, 3D Solutech, http://www.3dsolutech.com/
+FCFCFB, None, https://amzn.to/3JrcD1E, PLA, 3D Solutech, http://www.3dsolutech.com/
+FCFCFB, None, None, PLA, Maker Geeks, https://makergeeks3d.myshopify.com/
+FA7806, https://www.hatchbox3d.com/products/3d-pla-1kg1-75-orn?_pos=11&_sid=4e3ebe864&_ss=r, https://amzn.to/3qkKwtw, PLA, Hatchbox, https://hatchbox3d.com/
+FA8506, None, https://amzn.to/36zLR8R, PLA, WYZ works, https://www.wyzworks.com/3d-printing/3d-printer-filament
+FA6806, None, None, PLA, MakerBot, https://store.makerbot.com/
+FA8406, None, https://amzn.to/3IowSvI, PLA+, Kodak, https://www.kodak.com/US/en/consumer/products/3d-printing/default.htm?cid=go&idhbx=3dprinting
+FA7406, https://www.prusa3d.com/product/prusament-pla-prusa-orange-1kg/, None, PLA, Prusament, https://shop.prusa3d.com/en/42-prusament
+29F47A, None, None, PLA, MakerBot, https://store.makerbot.com/
+FB8811, https://www.hatchbox3d.com/products/3d-pla-1kg1-75-orn, None, PLA, Hatchbox, https://hatchbox3d.com/
+D9090E, https://esun3dstore.com/collections/3d-printing-filament/products/esun-3d-printer-filament-pla-1-75mm-dimensional-accuracy-0-03mm-1kg-2-2-lbs-spool-3d-printing-material-for-3d-printers?variant=3805095, https://amzn.to/3x1a2Il, PLA+, eSUN, https://esun3dstore.com/
+0507F4, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-bold-blue?variant=39502756118613, None, PLA, Printed Solid, https://www.printedsolid.com
+1243AB, None, None, PLA Pro Select, FilamentOne, https://www.filamentone.com/
+FAD3E5, None, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+EDEFF3, None, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+FABB8E, None, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+6810AE, None, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+FBC185, None, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+646D80, None, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+FCFCFC, None, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+6DE39C, None, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+F960D2, https://www.prusa3d.com/product/prusament-pla-ms-pink-blend-970g/, None, PLA, Prusament, https://shop.prusa3d.com/en/42-prusament
+28CF6A, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-green?variant=39502751957077, None, PLA, Printed Solid, https://www.printedsolid.com
+044DBF, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-ice?variant=39502754906197, None, PLA, Printed Solid, https://www.printedsolid.com
+7FF99A, None, https://amzn.to/3uhpNYB, PLA, Dremel, https://shop.dremel.com/
+9C049B, None, https://amzn.to/36f97t1, PLA, Dremel, https://shop.dremel.com/
+C6C7C3, https://store.makerbot.com/3d-printers-materials/method-spools/pla-material/pla-filament, None, PLA, MakerBot, https://store.makerbot.com/
+C0BEA5, https://www.prusa3d.com/product/prusament-pla-pearl-mouse-1kg/, https://amzn.to/36dZdI8, PLA, Prusament, https://shop.prusa3d.com/en/42-prusament
+0BA8F9, https://www.prusa3d.com/product/prusament-pla-azure-blue-1kg/, None, PLA, Prusament, https://shop.prusa3d.com/en/42-prusament
+CEE6F5, None, None, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+FCFCFC, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white?variant=39502748844117, None, PLA, Printed Solid, https://www.printedsolid.com
+343038, https://overture3d.com/products/overture-easy-pla-1-75mm?variant=42435528360190, https://amzn.to/3JFxAGo, PLA, Overture, https://overture3d.com/
+FBC90A, https://www.hatchbox3d.com/collections/shop-all/products/3d-pla-1kg1-75-gld, https://amzn.to/3wBGyAq, PLA, Hatchbox, https://hatchbox3d.com/
+09AC92, https://colorfabb.com/mint-turqoise, None, PLA/PHA, ColorFabb, https://colorfabb.com
+A48DF4, https://colorfabb.com/blue-lilac-ral-4005-plaque, None, PLA, ColorFabb, https://colorfabb.com
+AAFA49, https://colorfabb.com/intense-green, None, PLA/PHA, ColorFabb, https://colorfabb.com
+FB9306, https://colorfabb.com/dutch-orange, None, PLA/PHA, ColorFabb, https://colorfabb.com
+FCFCFC, https://colorfabb.com/blueish-white, None, PLA/PHA, ColorFabb, https://colorfabb.com
+D6AC77, None, None, PLA, ColorFabb, https://colorfabb.com
+BB6C46, None, https://amzn.to/3wzKrWV, PLA, Amazon Basics, https://amazon.com
+FBFB71, None, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+9EEAF5, None, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+F90F09, https://www.microcenter.com/product/485633/inland-175mm-red-pla-3d-printer-filament-1kg-spool-(22-lbs), https://amzn.to/3wtjHHn, PLA, Inland, https://www.microcenter.com
+DDCDA6, https://www.formfutura.com/shop/product/galaxy-pla-2810?search=galaxy, https://amzn.to/3D26vdP, PLA, FormFutura, https://www.formfutura.com/page/homepage
+F8A89F, None, None, PLA, Graft Milk, https://www.graftmilk.co/
+FDF5F3, https://atomicfilament.com/products/iridescent-pearlescent-pla-filament?_pos=3&_sid=85b65da86&_ss=r&variant=7050833921, None, PLA, Atomic Filament, https://atomicfilament.com/
+FCB929, https://www.3dfuel.com/collections/1-75mm-buzzed%E2%84%A2-beer/products/buzzed-beer-filament-1-75mm?variant=12773373968496, https://amzn.to/3umStiW, PLA, 3D-Fuel, https://www.3dfuel.com/
+FBDA49, None, None, PLA, Graft Milk, https://www.graftmilk.co/
+F7E4C3, None, None, PLA, Graft Milk, https://www.graftmilk.co/
+2553D7, http://www.zyltech.com/blue-silk-composite-zyltech-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+F2F2EE, http://www.zyltech.com/zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs-milky-white/, None, PLA, Zyltech, http://www.zyltech.com/
+FB1E1D, http://www.zyltech.com/zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs-lipstick-red/, None, PLA, Zyltech, http://www.zyltech.com/
+959392, http://www.zyltech.com/new-zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs-gray/, None, PLA, Zyltech, http://www.zyltech.com/
+FBDC87, http://www.zyltech.com/new-zyltech-gold-silk-composite-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+F6B91B, http://www.zyltech.com/gold-zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+434349, http://www.zyltech.com/new-fortress-gray-zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+FA4665, http://www.zyltech.com/zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs-fluorescent-red-hot-pink/, None, PLA, Zyltech, http://www.zyltech.com/
+F6F6F6, http://www.zyltech.com/zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs-ceramic-white-the-original/, None, PLA, Zyltech, http://www.zyltech.com/
+E5E5E3, None, None, PLA, E3D, https://e3d-online.com/filaments-3d-printing/spoolworks
+A852B8, https://www.pushplastic.com/products/pla-filament?_pos=7&_sid=b024dd31b&_ss=r&variant=13534676295, https://amzn.to/30FPpRJ, PLA, Push Plastic, https://www.pushplastic.com/
+ABACB0, https://www.pushplastic.com/products/pla-filament?_pos=7&_sid=b024dd31b&_ss=r&variant=21541202247, https://amzn.to/3frkIUq, PLA, Push Plastic, https://www.pushplastic.com/
+A06D38, https://www.pushplastic.com/products/pla-filament?_pos=7&_sid=b024dd31b&_ss=r&variant=21541202247, None, PLA, Push Plastic, https://www.pushplastic.com/
+CFCBC4, https://www.pushplastic.com/products/pla-filament?_pos=7&_sid=b024dd31b&_ss=r&variant=13534674951, https://amzn.to/3hlMFyS, PLA, Push Plastic, https://www.pushplastic.com/
+F0FB05, https://www.pushplastic.com/products/pla-filament?_pos=7&_sid=b024dd31b&_ss=r&variant=13534678215, None, PLA, Push Plastic, https://www.pushplastic.com/
+FA7A94, https://www.pushplastic.com/products/pla-filament?_pos=7&_sid=b024dd31b&_ss=r&variant=13534676743, None, PLA, Push Plastic, https://www.pushplastic.com/
+EBFE02, https://www.pushplastic.com/products/pla-filament?_pos=7&_sid=b024dd31b&_ss=r&variant=13534675527, None, PLA, Push Plastic, https://www.pushplastic.com/
+878B8E, https://www.pushplastic.com/products/pla-filament?_pos=7&_sid=b024dd31b&_ss=r&variant=13534674631, None, PLA, Push Plastic, https://www.pushplastic.com/
+0EBDF9, https://www.proto-pasta.com/products/glitter-flake-htpla-v2-winter-blue?_pos=1&_sid=66faec986&_ss=r&aff=102, https://amzn.to/2YCuAE3, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+AFAEAB, https://www.proto-pasta.com/products/high-performance-htpla-silver-smoke?_pos=1&_sid=0f6c440e9&_ss=r&aff=102, https://amzn.to/3d8ZpG1, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+F9651A, https://www.proto-pasta.com/products/tangerine-orange-metallic-gold-htpla?_pos=1&_sid=d0c2ac5f2&_ss=r&aff=102, https://amzn.to/37uk0D9, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+234CD1, https://www.proto-pasta.com/products/premium-htpla-v3-blue?_pos=1&_sid=6be2868dc&_ss=r&aff=102, https://amzn.to/3foeHYH, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+F4F3F4, https://www.proto-pasta.com/products/premium-htpla-v3-white?_pos=1&_sid=d0e01c981&_ss=r&aff=102, https://amzn.to/3hsLfmf, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+ECEEEE, https://www.proto-pasta.com/products/premium-htpla-v3-natural?_pos=1&_sid=e9e04cf25&_ss=r&aff=102, https://amzn.to/3fmhp0W, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+141414, https://www.proto-pasta.com/products/premium-htpla-v3-black?_pos=1&_sid=0f35aca3c&_ss=r&aff=102, https://amzn.to/2AA7shF, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+FCC102, https://www.proto-pasta.com/products/matte-fiber-htpla-yellow?_pos=1&_sid=d7aea284d&_ss=r&aff=102, https://amzn.to/2MZBLkA, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+FC7A12, https://www.proto-pasta.com/products/matte-fiber-htpla-orange?_pos=1&_sid=a0047a579&_ss=r&aff=102, https://amzn.to/3e2YUyp, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+107D66, https://www.proto-pasta.com/products/matte-fiber-htpla-green?_pos=1&_sid=81095029b&_ss=r&aff=102, https://amzn.to/3hs060a, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+888B92, https://www.proto-pasta.com/products/matte-fiber-htpla-gray?_pos=1&_sid=9a06837e6&_ss=r&aff=102, https://amzn.to/2V2NNxa, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+2C2C2C, https://www.proto-pasta.com/products/high-performance-htpla-matte-fiber?aff=102, https://amzn.to/2xMXSGA, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+167EE4, https://www.proto-pasta.com/products/metallic-htpla-v3-highfive-blue?aff=102, https://amzn.to/3ayCeUF, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+463658, https://www.proto-pasta.com/products/galactic-empire-metallic-purple-htpla?_pos=1&_sid=6fb40b3d3&_ss=r&aff=102, https://amzn.to/2Sk4zqc, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+242424, https://www.proto-pasta.com/products/empire-strikes-metallic-black-htpla?_pos=2&_sid=6fb40b3d3&_ss=r&aff=102, https://amzn.to/2OswSl6, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+7D4B2E, https://www.proto-pasta.com/products/double-espresso-metallic-brown-htpla?_pos=1&_sid=f63ebfc0c&_ss=r&aff=102, https://amzn.to/2OrPHoA, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+F1728D, https://www.proto-pasta.com/products/cupids-crush-metallic-pink-htpla?_pos=1&_sid=890fb2046&_ss=r&aff=102, https://amzn.to/2v9tWCX, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+0A522D, https://www.proto-pasta.com/products/cloverleaf-metallic-green-htpla?_pos=1&_sid=d63292ebb&_ss=r&aff=102, https://amzn.to/2GXidtT, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+2B83B4, https://www.proto-pasta.com/products/wonder-blue-glitter-flake-htpla?_pos=1&_sid=577435e02&_ss=r&aff=102, https://amzn.to/370TXl8, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+C7845A, https://www.proto-pasta.com/products/copy-of-matte-fiber-pine-htpla-2018-special-edition?aff=102, None, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+FED112, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-yellow-bird, None, PLA, Printed Solid, https://www.printedsolid.com
+FF4922, https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-ps-red, None, PLA, Printed Solid, https://www.printedsolid.com
+E0954A, https://us.polymaker.com/product/polywood/, https://amzn.to/2vRGLSX, PLA, Polymaker, https://polymaker.com/
+A2A7AF, https://www.paramount-3d.com/product-page/pla-pantone-storm-gray-430c-1-75mm-1kg-filament-sgrl7000430c, None, PLA, Paramount 3D, https://www.paramount-3d.com
+F3CB92, https://www.paramount-3d.com/product-page/pla-pantone-7502c-skin-universal-beige-1-75mm-1kg-filament-ubrl10017502c, None, PLA, Paramount 3D, https://www.paramount-3d.com
+857467, https://www.paramount-3d.com/product-page/pla-pantone-primordial-earth-9c-1-75mm-1kg-filament-derl7006-g09c, https://amzn.to/2GTAN66, PLA, Paramount 3D, https://www.paramount-3d.com
+168B9D, https://www.paramount-3d.com/product-page/pla-atomic-age-teal-1-75mm-1kg-filament-atrl50217718c, https://amzn.to/36Z9ke2, PLA, Paramount 3D, https://www.paramount-3d.com
+FF272D, https://store.makerbot.com/3d-printers/replicator-materials/pla-large/#truered, https://amzn.to/2ShEwzU, PLA, MakerBot, https://store.makerbot.com/
+FEFEFE, https://www.filament-pm.com/filament-1-75-pla-white-1-kg/p61, None, PLA, Filament PM, https://www.filament-pm.com
+42574F, https://www.filament-pm.com/filament-1-75-pla-metalic-green-1-kg/p75, None, PLA, Filament PM, https://www.filament-pm.com
+B8BAC1, https://www.filament-pm.com/filament-1-75-marblejet-dark-0-5-kg/p165, None, PLA, Filament PM, https://www.filament-pm.com
+9C7738, https://www.filament-pm.com/filament-1-75-pla-khaki-1-kg/p159, None, PLA, Filament PM, https://www.filament-pm.com
+E6E0D2, https://www.filament-pm.com/filament-1-75-glowjet-glow-in-the-dark-0-5-kg/p42, None, PLA, Filament PM, https://www.filament-pm.com
+FEF001, https://www.filament-pm.com/filament-1-75-pla-fluorescent-yellow-1-kg/p105, None, PLA, Filament PM, https://www.filament-pm.com
+D15003, https://www.filament-pm.com/filament-1-75-pla-copper-1-kg/p65, None, PLA, Filament PM, https://www.filament-pm.com
+F4DD22, https://www.filacube.com/collections/1-75mm-1kg-filacube-3d-printer-pla-2-filament-18-colors/products/1-75mm-1kg-yellow-filacube-3d-printer-pla-2-filament, https://amzn.to/2ZdP46g, PLA 2, FilaCube, https://www.filacube.com/
+FC8A79, None, https://amzn.to/2PF5660, PLA 2, FilaCube, https://www.filacube.com/
+FDFDF9, https://www.filacube.com/products/1-75mm-1kg-ivory-white-filacube-3d-printer-pla-2-filament-offwhite-off-white?_pos=1&_sid=29d4edf77&_ss=r, https://www.amazon.com/gp/product/B076Z26NS5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=filamentcol0c-20&creative=9325&linkCode=as2&creativeASIN=B076Z26NS5&linkId=4552a79c492f90f90d1bb443accaccf9, PLA 2, FilaCube, https://www.filacube.com/
+C0BFBF, https://www.filacube.com/products/1-75mm-1kg-engineering-gray-light-grey-filacube-3d-printer-pla-2-filament, https://www.amazon.com/gp/product/B07F21M533/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=filamentcol0c-20&creative=9325&linkCode=as2&creativeASIN=B07F21M533&linkId=e31aeb8006e27051b35d43c54a1b10fc, PLA 2, FilaCube, https://www.filacube.com/
+121213, https://bamtack.com/shop/pla/bamtack-1-75mm-black-pla-3d-printer-filament-1kg-2-2-lbs-dimensional-accuracy-0-03mm/, https://www.amazon.com/gp/product/B0167XCHWM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=filamentcol0c-20&creative=9325&linkCode=as2&creativeASIN=B0167XCHWM&linkId=2c52dcccbf53a530a500c96863b3af3e, PLA, BAMtack!, https://bamtack.com/
+E6AAAA, https://atomicfilament.com/products/rose-gold-metallic-translucent, None, PLA, Atomic Filament, https://atomicfilament.com/
+EEBF86, https://filaments.ca/products/wood-filament-natural-brown-1-75mm?_pos=2&_sid=5ac672d7b&_ss=r, None, PLA, Filaments.CA, https://filaments.ca/
+D9DCDB, None, None, PLA, 3D Hero, https://www.amazon.com/stores/node/20054608011?_encoding=UTF8&field-lbr_brands_browse-bin=3D%20Hero&ref_=bl_dp_s_web_20054608011
+42CA4E, https://www.3dfuel.com/products/standard-pla-grass-green, https://www.amazon.com/gp/product/B076FS3CW4/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=filamentcol0c-20&creative=9325&linkCode=as2&creativeASIN=B076FS3CW4&linkId=fd350802690ffd546016239a29e3e665, PLA, 3D-Fuel, https://www.3dfuel.com/
+A5A8AB, https://www.3dfuel.com/products/glass-filled-pla, None, PLA, 3D-Fuel, https://www.3dfuel.com/
+54DC67, None, https://amzn.to/2n6K58N, PLA, Ziro, http://www.ziro3d.com
+F2FE01, None, None, PLA, Tianse-3D, https://www.facebook.com/pg/Tianse3D/shop/
+163AC0, None, https://amzn.to/2nRtV3D, PLA, SunTop 3d, http://www.suntopx.com
+2032C6, https://e3d-online.com/spoolworks-pla, None, PLA, E3D, https://e3d-online.com/filaments-3d-printing/spoolworks
+95CA26, https://e3d-online.com/spoolworks-pla, None, PLA, E3D, https://e3d-online.com/filaments-3d-printing/spoolworks
+F7F022, https://www.pushplastic.com/products/pla-filament?variant=13534677959, None, PLA, Push Plastic, https://www.pushplastic.com/
+253BD6, https://www.pushplastic.com/products/pla-filament?variant=13534676167, None, PLA, Push Plastic, https://www.pushplastic.com/
+F4221D, https://www.pushplastic.com/products/pla-filament?variant=13534676999, None, PLA, Push Plastic, https://www.pushplastic.com/
+827F7F, https://www.pushplastic.com/products/pla-filament?variant=13534674823, None, PLA, Push Plastic, https://www.pushplastic.com/
+03CB97, https://www.pushplastic.com/products/pla-filament?variant=13534675655, None, PLA, Push Plastic, https://www.pushplastic.com/
+1A79C7, https://www.pushplastic.com/products/pla-filament?variant=13534676039, None, PLA, Push Plastic, https://www.pushplastic.com/
+FDA502, https://www.pushplastic.com/products/pla-filament?variant=13534677511, None, PLA, Push Plastic, https://www.pushplastic.com/
+FA85B1, https://www.pushplastic.com/products/pla-filament?variant=13534676487, None, PLA, Push Plastic, https://www.pushplastic.com/
+FD7504, https://www.pushplastic.com/products/pla-filament?variant=13534677767, None, PLA, Push Plastic, https://www.pushplastic.com/
+7A402B, https://www.pushplastic.com/products/pla-filament?variant=13534674183, None, PLA, Push Plastic, https://www.pushplastic.com/
+9D2A37, https://www.pushplastic.com/products/pla-filament?variant=14977266567, None, PLA, Push Plastic, https://www.pushplastic.com/
+777DDF, https://www.pushplastic.com/products/pla-filament?variant=14977834375, None, PLA, Push Plastic, https://www.pushplastic.com/
+14D058, https://www.pushplastic.com/products/pla-filament?variant=13534675207, None, PLA, Push Plastic, https://www.pushplastic.com/
+F2F1EB, https://www.pushplastic.com/products/pla-filament?variant=26435933319, None, PLA, Push Plastic, https://www.pushplastic.com/
+B0966D, https://www.pushplastic.com/products/pla-filament?variant=13534673287, None, PLA, Push Plastic, https://www.pushplastic.com/
+FAE9C9, https://www.pushplastic.com/products/pla-filament?variant=13534673543, None, PLA, Push Plastic, https://www.pushplastic.com/
+EC9A67, https://www.pushplastic.com/products/pla-filament?variant=13534673415, None, PLA, Push Plastic, https://www.pushplastic.com/
+3A3A3A, https://shop.prusa3d.com/en/prusament/711-prusament-pla-prusa-galaxy-black-1kg.html, https://amzn.to/2pxSdQy, PLA, Prusament, https://shop.prusa3d.com/en/42-prusament
+C81515, https://www.proto-pasta.com/products/glitter-flake-htpla-v2-candy-apple-red?_pos=1&_sid=d885272b6&_ss=r&aff=102, https://amzn.to/2ptnKTy, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+ECE9E5, https://www.printedsolid.com/collections/jessie/products/jessie-pla-1-75mm-x-1kg?variant=22025117728853, None, PLA, Printed Solid, https://www.printedsolid.com
+5E485A, https://www.printedsolid.com/collections/jessie/products/jessie-pla-1-75mm-x-1kg?variant=22025117368405, None, PLA, Printed Solid, https://www.printedsolid.com
+232B87, https://www.printedsolid.com/collections/jessie/products/jessie-pla-1-75mm-x-1kg?variant=22025117827157, None, PLA, Printed Solid, https://www.printedsolid.com
+EABFE8, https://www.polyalchemy.com/collections/elixir-pla/products/elixir-pla-purple-rain-750g-pre-order, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+6E7784, https://www.polyalchemy.com/collections/elixir-pla/products/onyx-elixir-750g, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+D2292E, https://www.polyalchemy.com/collections/elixir-pla/products/merlot-elixir-750g, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+D8955E, https://www.polyalchemy.com/collections/polyalchemy-fx-pla/products/sandstone-fx-pla-750g, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+B1B1B1, None, https://amzn.to/2nP4cc1, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+FCB32D, None, https://amzn.to/2nP4cc1, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+AA8326, None, https://amzn.to/2nP4cc1, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+FDE403, https://gizmodorks.com/pla-3d-printer-filament/, https://amzn.to/2o0lXoI, PLA, Gizmo Dorks, None
+EFEFEB, https://gizmodorks.com/pla-3d-printer-filament/, https://amzn.to/2nRKwUW, PLA, Gizmo Dorks, None
+F6F6F3, https://gizmodorks.com/pla-3d-printer-filament/, https://amzn.to/2oK3nB3, PLA, Gizmo Dorks, None
+FB401E, https://gizmodorks.com/pla-3d-printer-filament/, https://amzn.to/2o4ujf5, PLA, Gizmo Dorks, None
+76318E, https://gizmodorks.com/pla-3d-printer-filament/, https://amzn.to/2n51fn5, PLA, Gizmo Dorks, None
+FDB003, https://gizmodorks.com/pla-3d-printer-filament/, https://amzn.to/2o4u57w, PLA, Gizmo Dorks, None
+24E633, https://gizmodorks.com/pla-3d-printer-filament/, https://amzn.to/2oHyYDs, PLA, Gizmo Dorks, None
+B2A9A3, https://gizmodorks.com/pla-3d-printer-filament/, https://amzn.to/2pzDqVD, PLA, Gizmo Dorks, None
+E8A13E, https://gizmodorks.com/pla-3d-printer-filament/, https://amzn.to/2n4n2va, PLA, Gizmo Dorks, None
+1170FC, https://gizmodorks.com/pla-3d-printer-filament/, https://amzn.to/2o4bgkS, PLA, Gizmo Dorks, None
+0C0C0C, https://gizmodorks.com/pla-3d-printer-filament/, https://amzn.to/2oJJNox, PLA, Gizmo Dorks, None
+1BA134, https://www.filament-pm.com/filament-1-75-pla-pearl-green-1-kg/p153, None, PLA, Filament PM, https://www.filament-pm.com
+6D5B6F, https://www.filament-pm.com/filament-1-75-pla-metalic-violet-1-kg/p71, None, PLA, Filament PM, https://www.filament-pm.com
+0DD322, https://www.filament-pm.com/filament-1-75-pla-fluorescent-green-1-kg/p106, None, PLA, Filament PM, https://www.filament-pm.com
+15B0FC, https://www.filament-pm.com/filament-1-75-pla-blue-2-kg/p168, None, PLA, Filament PM, https://www.filament-pm.com
+232323, https://www.filament-pm.com/filament-1-75-pla-black-2-kg/p150, None, PLA, Filament PM, https://www.filament-pm.com
+5796EC, https://www.filacube.com/products/1-75mm-1kg-sapphire-blue-filacube-3d-printer-pla-2-filament, https://amzn.to/2pvMYRf, PLA 2, FilaCube, https://www.filacube.com/
+45DDF3, None, https://amzn.to/2n4hsZK, PLA 2, eSUN, https://esun3dstore.com/
+DF6822, None, None, PLA, CC3D, http://m.cc3dchina.com/192664-16774/208955_606376.html
+29B648, https://atomicfilament.com/products/reprap-green-pla-filament, None, PLA, Atomic Filament, https://atomicfilament.com/
+ACF839, None, https://amzn.to/2nQIxjK, PLA, AIO Robotics, None
+574F46, None, https://amzn.to/2o2kGxh, PLA, AIO Robotics, None
+FDBD20, None, https://amzn.to/2nRdaFI, PLA, AIO Robotics, None
+111111, https://www.3dfuel.com/products/pro-pla-midnight-black, https://amzn.to/2px5Mjc, Pro PLA, 3D-Fuel, https://www.3dfuel.com/
+46BA28, http://www.zyltech.com/new-zyltech-green-silk-composite-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+1BD2DE, http://www.zyltech.com/new-bahama-blue-zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+BD7339, None, https://amzn.to/2nGoNyF, PLA, Tianse-3D, https://www.facebook.com/pg/Tianse3D/shop/
+FEFEFA, None, https://amzn.to/2mMDLDm, PLA, Tactink, https://www.amazon.com/stores/node/16325375011?_encoding=UTF8&field-lbr_brands_browse-bin=TacTink&ref_=bl_dp_s_web_16325375011
+08A787, None, https://amzn.to/2ouskk5, PLA 2, Sunlu, https://sunlugw.en.alibaba.com/
+EAFE02, https://snolabs.com/yellow-1-75-pla-1/, None, PLA 2, SnoLabs, https://snolabs.com/
+D9F64A, https://snolabs.com/transparent-yellow-1-75-pla/, None, PLA, SnoLabs, https://snolabs.com/
+E73C2E, https://snolabs.com/transparent-red/, None, PLA, SnoLabs, https://snolabs.com/
+CD1986, https://snolabs.com/fuchsia-transparent-purple-1-75-pla-1/, None, PLA, SnoLabs, https://snolabs.com/
+E8E7DC, https://snolabs.com/transparent-filaments/, None, PLA, SnoLabs, https://snolabs.com/
+FD9402, https://snolabs.com/transparent-orange-1-75-pla/, None, PLA, SnoLabs, https://snolabs.com/
+11F509, https://snolabs.com/transparent-green-1-75-pla/, None, PLA, SnoLabs, https://snolabs.com/
+1AA5F7, https://snolabs.com/transparent-blue-1-75-pla/, None, PLA, SnoLabs, https://snolabs.com/
+C01B68, None, None, PLA, SnoLabs, https://snolabs.com/
+FC72AA, https://snolabs.com/pink-filaments/, None, PLA, SnoLabs, https://snolabs.com/
+F3F4F2, https://snolabs.com/pearl-white-1-75-pla/, None, PLA, SnoLabs, https://snolabs.com/
+B8FCF1, https://snolabs.com/mint-green-1-75-pla-1/, None, PLA, SnoLabs, https://snolabs.com/
+F0EEE9, None, None, PLA, SnoLabs, https://snolabs.com/
+386ECB, https://snolabs.com/galaxy-blue-1-75-pla/, None, PLA 2, SnoLabs, https://snolabs.com/
+DD2D21, https://snolabs.com/galaxy-red-1-75-pla/, None, PLA 2, SnoLabs, https://snolabs.com/
+2139A1, https://snolabs.com/dark-blue-1-75-pla/, None, PLA, SnoLabs, https://snolabs.com/
+DEDEDE, https://snolabs.com/cool-grey-filaments/, None, PLA, SnoLabs, https://snolabs.com/
+8D8884, https://www.proto-pasta.com/products/stainless-steel-pla?_pos=3&_sid=4e1102655&_ss=r&aff=102, https://amzn.to/2mMYiro, PLA, Proto-Pasta, https://www.proto-pasta.com
+B1B7C1, https://www.proto-pasta.com/products/light-grey-carbon-fiber-composite-htpla?_pos=1&_sid=89b9c44b2&_ss=r&aff=102, https://amzn.to/2ooCkuZ, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+595653, https://www.proto-pasta.com/products/magnetic-iron-pla?_pos=1&_sid=296efb4e0&_ss=r&aff=102, https://amzn.to/2nKzoIS, PLA, Proto-Pasta, https://www.proto-pasta.com
+F2CD25, https://www.proto-pasta.com/products/steves-electric-lemonade-metallic-yellow-htpla?_pos=1&_sid=16f3eb291&_ss=r&aff=102, https://amzn.to/2olEVG2, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+C36334, https://www.proto-pasta.com/products/copper-metal-composite-htpla?_pos=2&_sid=e502423dc&_ss=r&aff=102, https://amzn.to/2mVRckg, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+767F8A, https://www.proto-pasta.com/products/medium-grey-carbon-fiber-composite-htpla?_pos=1&_sid=60f11b8ae&_ss=r&aff=102, https://amzn.to/2m71fCy, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+B8491C, https://www.proto-pasta.com/products/burnt-orange-metallic-copper-htpla?_pos=1&_sid=f6df337d0&_ss=r&aff=102, https://amzn.to/2olMDjt, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+795744, https://www.proto-pasta.com/products/bronze-metal-composite-htpla?_pos=1&_sid=364f55b3f&_ss=r&aff=102, https://amzn.to/2mMS6j8, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+B48E35, https://www.proto-pasta.com/products/brass-metal-composite-htpla?_pos=1&_sid=8d1850fbf&_ss=r&aff=102, https://amzn.to/2nHcG4y, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+E53134, https://www.polyalchemy.com/products/royal-ruby-elixir-750g, https://amzn.to/2m9TxHR, PLA, Polyalchemy, https://www.polyalchemy.com/
+9460E1, https://www.polyalchemy.com/products/potion-purple-elixir-750g, https://www.amazon.com/Polyalchemy-Elixir-Blend-1-75mm-Filament/dp/B07WSXV9JD/ref=as_li_ss_tl?keywords=polyalchemy+lucid+pearl+filament&qid=1569816310&s=gateway&sr=8-1&th=1&linkCode=sl1&tag=filamentco, PLA, Polyalchemy, https://www.polyalchemy.com/
+1B7868, https://www.polyalchemy.com/products/misty-green-elixir-750g, https://www.amazon.com/Polyalchemy-Elixir-Blend-1-75mm-Filament/dp/B07WSXV9JD/ref=as_li_ss_tl?keywords=polyalchemy+lucid+pearl+filament&qid=1569816310&s=gateway&sr=8-1&th=1&linkCode=sl1&tag=filamentco, PLA, Polyalchemy, https://www.polyalchemy.com/
+A1ABB7, https://www.polyalchemy.com/products/lucid-pearl-elixir-750g, https://www.amazon.com/Polyalchemy-Elixir-Blend-1-75mm-Filament/dp/B07WNY3959/ref=as_li_ss_tl?keywords=polyalchemy+lucid+pearl+filament&qid=1569816310&s=gateway&sr=8-1&linkCode=sl1&tag=filamentcol0c-2, PLA, Polyalchemy, https://www.polyalchemy.com/
+EEEEEC, https://www.paramount-3d.com/product-page/pla-3, https://www.amazon.com/Paramount-3D-White-1-75mm-Filament/dp/B01LQTDI52/ref=as_li_ss_tl?keywords=paramount+3d+white+pla&qid=1569816201&s=gateway&sr=8-3&linkCode=sl1&tag=filamentcol0c-20&linkId=aa3af1e, PLA, Paramount 3D, https://www.paramount-3d.com
+F24114, https://www.paramount-3d.com/product-page/pla-pantone-volcano-orange-7626c-1-75mm-1kg-filament-vorl20027626c, https://www.amazon.com/Paramount-3D-PANTONE-Filament-VORL20027626C/dp/B01N3P0CO0/ref=as_li_ss_tl?keywords=paramount+3d+volcano+orange+pla&qid=1569816099&s=gateway&sr=8-3&linkCode=sl1&tag=filamentcol0c, PLA, Paramount 3D, https://www.paramount-3d.com
+FBE7A9, https://www.paramount-3d.com/product-page/pla-pantone-7501c-ivory-1-75mm-1kg-filament-irl10147501c, https://www.amazon.com/Paramount-3D-PANTONE-Filament-IRL10147501C/dp/B01MT7YSTX/ref=as_li_ss_tl?keywords=paramount+3d+skin+ivory+pla&qid=1569815894&s=gateway&sr=8-4&linkCode=sl1&tag=filamentcol0c-20&l, PLA, Paramount 3D, https://www.paramount-3d.com
+F9D837, https://www.paramount-3d.com/product-page/pla-pantone-simpson-yellow-129c-1-75mm-1kg-filament-yrl1018129c, https://www.amazon.com/Paramount-3D-Simpson-Filament-YRL1018129C/dp/B01NH5DKWH/ref=as_li_ss_tl?keywords=paramount+3d+simpson+yellow+pla&qid=1569815843&s=gateway&sr=8-3&linkCode=sl1&tag=filamentcol0c-2, PLA, Paramount 3D, https://www.paramount-3d.com
+494B3B, https://www.paramount-3d.com/product-page/pla-pantone-military-green-7764c-1-75mm-1kg-filament-ogrl60037764c, https://www.amazon.com/Paramount-3D-Military-Filament-OGRL60037764C/dp/B01MSIISF9/ref=as_li_ss_tl?keywords=paramount+3d+military+green&qid=1569815795&s=gateway&sr=8-1&linkCode=sl1&tag=filamentcol0c-20, PLA, Paramount 3D, https://www.paramount-3d.com
+FD9703, https://www.paramount-3d.com/product-page/pla-pantone-mclaren-orange-2019c-1-75mm-1kg-filament-orl20112019c, https://www.amazon.com/Paramount-3D-PANTONE-Filament-ORL20112019C/dp/B01N4MW1OX/ref=as_li_ss_tl?keywords=paramount+3d+mclaren+orange+pla&qid=1569815660&s=gateway&sr=8-4&linkCode=sl1&tag=filamentcol0c-, PLA, Paramount 3D, https://www.paramount-3d.com
+323D4C, https://www.paramount-3d.com/product-page/pla-pantone-fighter-jet-blue-7546c-1-75mm-1kg-filament-fbrl50087546c, https://www.amazon.com/Paramount-3D-Fighter-Filament-FBRL50087546C/dp/B01M1M6ZPK/ref=as_li_ss_tl?keywords=paramount+3d+fighter+jet+blue+pla&qid=1569815260&s=gateway&sr=8-3&linkCode=sl1&tag=filamentcol, PLA, Paramount 3D, https://www.paramount-3d.com
+F62A29, https://www.paramount-3d.com/product-page/pla-pantone-enzo-red-485c-1-75mm-1kg-filament-trrl3020485c, https://www.amazon.com/Paramount-3D-1-75mm-Filament-TRRL3020485C/dp/B01LQZPGHE/ref=as_li_ss_tl?keywords=paramount+3d+enzo+red+pla&qid=1569815186&s=gateway&sr=8-4&linkCode=sl1&tag=filamentcol0c-20&link, PLA, Paramount 3D, https://www.paramount-3d.com
+FDB103, https://www.paramount-3d.com/product-page/pla-pantone-egg-yolk-yellow-137c-1-75mm-1kg-filament-syrl1003137c, https://www.amazon.com/Paramount-3D-Yellow-Filament-SYRL1003137C/dp/B01N061P8X/ref=as_li_ss_tl?keywords=paramount+3d+egg+yolk+yellow+pla&qid=1569815078&s=gateway&sr=8-4&linkCode=sl1&tag=filamentcol0c-, PLA, Paramount 3D, https://www.paramount-3d.com
+F5651A, https://www.paramount-3d.com/product-page/pla-pantone-caribbean-coral-7416c-1-75mm-1kg-filament-cprl30227416c, https://www.amazon.com/Paramount-3D-Caribbean-Filament-CPRL30227416C/dp/B01LWLCMOT/ref=as_li_ss_tl?keywords=paramount+3d+caribbean+coral+pla&qid=1569815025&s=gateway&sr=8-3&linkCode=sl1&tag=filamentco, PLA, Paramount 3D, https://www.paramount-3d.com
+29523E, https://www.paramount-3d.com/product-page/pla-pantone-british-racing-green-3435c-1-75mm-1kg-filament-grl60053435c, https://www.amazon.com/Paramount-3D-British-Filament-GRL60053435C/dp/B01N0ZQB6V/ref=as_li_ss_tl?keywords=paramount+3d+british+racing+green+pla&qid=1569814951&s=gateway&sr=8-4&linkCode=sl1&tag=filament, PLA, Paramount 3D, https://www.paramount-3d.com
+6B2329, https://www.paramount-3d.com/product-page/pla-pantone-black-cherry-490c-1-75mm-1kg-filament-wmrl3005490c, https://www.amazon.com/Paramount-3D-PANTONE-Filament-WMRL3005490C/dp/B01N3SMFJW/ref=as_li_ss_tl?keywords=paramount+3d+black+cherry+play&qid=1569814895&s=gateway&sr=8-1-fkmr0&linkCode=sl1&tag=filamentc, PLA, Paramount 3D, https://www.paramount-3d.com
+244ACE, https://www.paramount-3d.com/product-page/pla-pantone-autobot-blue-2118c-1-75mm-1kg-filament-brl50022118c-1, https://www.amazon.com/Paramount-3D-Autobot-Filament-BRL50022118C/dp/B01N9QIJCJ/ref=as_li_ss_tl?keywords=paramount+3d+autobot+blue+pla&qid=1569814821&s=gateway&sr=8-4&linkCode=sl1&tag=filamentcol0c-20, PLA, Paramount 3D, https://www.paramount-3d.com
+F8F8F8, https://www.geeetech.com/3d-printer-supplies-filament-reprap-pla-1kgroll-white-p-980.html, https://www.amazon.com/Filament-1-75mm-Geeetech-Printer-Spool/dp/B01MT7O22L/ref=as_li_ss_tl?keywords=geeetech+white+filament&qid=1569814543&s=gateway&sr=8-3&linkCode=sl1&tag=filamentcol0c-20&linkId=bf, PLA, Geeetech, https://www.geeetech.com/
+D0FC40, https://filaments.ca/products/pla-filament-translucent-yellow-1-75mm, None, PLA, Filaments.CA, https://filaments.ca/
+EBE3DA, https://carbodeon.com/product/udiamond/, None, PLA 2, Carbodeon, https://carbodeon.com
+FDEF6B, None, https://amzn.to/2kGu08r, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+FCFAF6, None, https://amzn.to/2l29EHb, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+F74A4B, None, https://amzn.to/2kH6w3b, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+DA57CD, None, https://amzn.to/2ldbaGm, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+FDC6EF, None, https://amzn.to/2mbWUOd, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+F9AB67, None, https://amzn.to/2leH317, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+96FB6E, None, https://amzn.to/2leH317, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+47B9FC, None, https://amzn.to/2mBzqSK, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+B5B6B5, None, https://amzn.to/2l2tVwg, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+F1B4B8, None, https://amzn.to/2kERkn2, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+F6B228, None, https://amzn.to/2l2lGAi, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+DF7027, None, https://amzn.to/2kGm6vN, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+B18662, None, https://amzn.to/2kGhYfh, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+F3C499, None, https://amzn.to/2lcaVeE, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+ABA54D, None, https://amzn.to/2mIs4x0, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+FEFDFA, None, https://amzn.to/2meGnZS, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+EF1E32, None, https://amzn.to/2meGnZS, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+0E0E0E, None, https://amzn.to/2meGnZS, PLA, Mika3D, https://www.facebook.com/pages/category/Science--Technology---Engineering/Mika3D-110592460294544/
+79D203, https://www.matterhackers.com/store/l/fiberforce-pantone-368-c-pla-filament-175-075/sk/MXS6ALTK, None, PLA, FiberForce, http://www.fiberforce.it/
+B5F1E8, http://www.zyltech.com/new-sea-glass-teal-zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+723CA6, http://www.zyltech.com/new-majestic-purple-zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+AA9B72, http://www.zyltech.com/new-panhandle-3d-khaki-zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+F91E14, http://www.zyltech.com/nikkos-hot-rod-red-silk-composite-zyltech-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+826441, http://www.zyltech.com/bronze-zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+E92B29, https://e3d-online.com/catalog/product/view/id/8455/category/353/, None, PLA, E3D, https://e3d-online.com/filaments-3d-printing/spoolworks
+CF9E62, https://snolabs.com/woodfill-filaments/, None, PLA, SnoLabs, https://snolabs.com/
+FEFEFE, https://snolabs.com/white-filaments/, None, PLA 2, SnoLabs, https://snolabs.com/
+49DDFC, https://snolabs.com/light-blue-filaments/, None, PLA 2, SnoLabs, https://snolabs.com/
+D7D9D5, None, None, PLA, SnoLabs, https://snolabs.com/
+F1C449, https://snolabs.com/fools-gold-filaments/, None, PLA 2, SnoLabs, https://snolabs.com/
+321D36, https://snolabs.com/black-amethyst-1-75-pla/, None, PLA 2, SnoLabs, https://snolabs.com/
+F4C736, https://snolabs.com/alchemist-gold-pla-silk/, None, PLA 2, SnoLabs, https://snolabs.com/
+282829, https://replay-3d.com/products/100-recycled-pla-filament, None, Recycled PLA, RePLAy3D, https://replay-3d.com/
+F8E902, None, https://amzn.to/30oQGwK, PLA, Repkord, https://www.repkord.com/
+F42D87, https://www.pushplastic.com/products/pla-filament?variant=15142447495, None, PLA, Push Plastic, https://www.pushplastic.com/
+212121, https://www.pushplastic.com/products/pla-filament, https://amzn.to/30nqmmI, PLA, Push Plastic, https://www.pushplastic.com/
+C1C1BC, https://www.proto-pasta.com/products/glitter-flake-htpla-stardust?_pos=1&_sid=fbf639d43&_ss=r, https://amzn.to/2LHHICD, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+DE131C, https://www.proto-pasta.com/products/premium-htpla-v3-red?_pos=1&_sid=64eb1d606&_ss=r&aff=102, https://amzn.to/353VOWQ, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+FEFEF2, https://www.proto-pasta.com/products/matte-fiber-htpla-white?_pos=7&_sid=0ac8ea1d2&_ss=r&aff=102, https://amzn.to/30gPCLz, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+E5232F, https://www.proto-pasta.com/products/matte-fiber-htpla-red?_pos=6&_sid=0ac8ea1d2&_ss=r&aff=102, https://amzn.to/2OgZ5Mg, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+4557A9, https://www.proto-pasta.com/products/matte-fiber-htpla-blue?_pos=1&_sid=0ac8ea1d2&_ss=r&aff=102, https://amzn.to/2LG0z14, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+D1A963, https://www.proto-pasta.com/products/gold-dust-glitter-flake-htpla?_pos=1&_sid=fb1d58c42&_ss=r&aff=102, https://amzn.to/353A4dJ, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+D8CF15, https://www.proto-pasta.com/products/for-the-lulz-metallic-green-htpla?_pos=1&_sid=c87d44184&_ss=r&aff=102, https://amzn.to/352bNEC, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+2A37C8, https://www.polyalchemy.com/products/elixir-pla-night-sky-750g, https://amzn.to/30mZ9R2, PLA, Polyalchemy, https://www.polyalchemy.com/
+E79558, https://www.paramount-3d.com/product-page/pla-pantone-terra-cotta-7591c-1-75mm-1kg-filament-brrl30127591c, https://amzn.to/2LLgHi1, PLA, Paramount 3D, https://www.paramount-3d.com
+303032, https://www.paramount-3d.com/product-page/pla-pantone-stealth-gray-419c-1-75mm-1kg-filament-igrl7021419c, https://amzn.to/2Qny50t, PLA, Paramount 3D, https://www.paramount-3d.com
+5D7A43, https://www.paramount-3d.com/product-page/pla-pantone-st-andrews-green-7742c-1-75mm-1kg-filament-pgrl60107742c, https://amzn.to/31UWbRi, PLA, Paramount 3D, https://www.paramount-3d.com
+FCEACD, https://www.paramount-3d.com/product-page/pla-pantone-468c-skin-fair-complexion-1-75mm-1kg-filament-lirl1015468c, https://amzn.to/30kwrkT, PLA, Paramount 3D, https://www.paramount-3d.com
+8C8D90, https://www.paramount-3d.com/product-page/pla-silver-dollar-1-75mm-1kg-filament, https://amzn.to/2MfgJOa, PLA, Paramount 3D, https://www.paramount-3d.com
+ABA8A4, https://www.paramount-3d.com/product-page/pla, https://amzn.to/31G9kOk, PLA, Paramount 3D, https://www.paramount-3d.com
+CCA275, https://www.paramount-3d.com/product-page/pla-pantone-military-khaki-7530c-1-75mm-1kg-filament-gbrl1019-7530c, https://amzn.to/31LQTYk, PLA, Paramount 3D, https://www.paramount-3d.com
+29444E, https://www.paramount-3d.com/product-page/pla-pantone-leviathan-blue-green-316c-1-75mm-1kg-filament-tbrl5020316c, https://amzn.to/31IBnN1, PLA, Paramount 3D, https://www.paramount-3d.com
+6C2A25, https://www.paramount-3d.com/product-page/pla-pantone-hannibal-red-181c-1-75mm-1kg-filament-bhrl3009181c, https://amzn.to/2Qq1Iyh, PLA, Paramount 3D, https://www.paramount-3d.com
+706F6B, https://www.paramount-3d.com/product-page/pla-pantone-graphite-gray-425c-1-75mm-1kg-filament-bgrl7043425c, https://amzn.to/31MYeXK, PLA, Paramount 3D, https://www.paramount-3d.com
+EEC274, https://www.paramount-3d.com/product-page/pla-gold-krugerrand-1-75mm-1kg-filament, https://amzn.to/31La9Wa, PLA, Paramount 3D, https://www.paramount-3d.com
+ACA8A3, https://www.paramount-3d.com/product-page/pla-pantone-gray-423c-1-75mm-1kg-filament-dgrl7042423c, https://amzn.to/2OfZqPy, PLA, Paramount 3D, https://www.paramount-3d.com
+441C35, https://www.paramount-3d.com/product-page/pla-pantone-decepticon-purple-7449c-1-75mm-1kg-filament-prl40077449c, https://amzn.to/2M6UppP, PLA, Paramount 3D, https://www.paramount-3d.com
+A49885, https://www.paramount-3d.com/product-page/pla-pantone-castle-limestone-gray-416c-1-75mm-1kg-filament-cgrl7023416c, https://amzn.to/2LIYGkn, PLA, Paramount 3D, https://www.paramount-3d.com
+3E64A4, https://www.paramount-3d.com/product-page/pla-pantone-cadet-blue-5405c-1-75mm-1kg-filament-cbrl50235405c, https://amzn.to/2LIBD9m, PLA, Paramount 3D, https://www.paramount-3d.com
+161616, https://www.paramount-3d.com/product-page/pla-1, https://amzn.to/34WewzD, PLA, Paramount 3D, https://www.paramount-3d.com
+656B74, https://www.paramount-3d.com/product-page/pla-pantone-battleship-gray-431c-1-75mm-1kg-filament-bgrl7031431c, https://amzn.to/31JbD36, PLA, Paramount 3D, https://www.paramount-3d.com
+AF2E31, https://www.filament-pm.com/filament-1-75-pla-pearl-red-1-kg/p155, None, PLA, Filament PM, https://www.filament-pm.com
+1A4580, https://www.filament-pm.com/filament-1-75-pla-pearl-blue-1-kg/p154, None, PLA, Filament PM, https://www.filament-pm.com
+F3BA3F, None, https://amzn.to/30IUjKj, PLA, CC3D, http://m.cc3dchina.com/192664-16774/208955_606376.html
+F6C75A, https://www.captubes.com/shop/#!/Magical-Silky-Gold-1-75mm/p/135342716/category=34480593, https://amzn.to/30DNmdj, PLA, Capricorn, https://www.captubes.com/
+704534, None, https://amzn.to/2QliFK7, PLA, AIO Robotics, None
+111111, None, https://amzn.to/31JarNa, PLA, AIO Robotics, None
+0E66EC, https://www.3dfuel.com/products/standard-pla-ocean-blue?_pos=2&_sid=98adde298&_ss=r, https://amzn.to/30haIdD, PLA, 3D-Fuel, https://www.3dfuel.com/
+36B22E, https://www.3dfuel.com/products/standard-pla-grass-green?_pos=2&_sid=a2fb07efd&_ss=r, https://amzn.to/2M6W8vm, PLA, 3D-Fuel, https://www.3dfuel.com/
+F4DB1A, https://www.3dfuel.com/products/ingeo-pla-daffodil-yellow?_pos=2&_sid=7cf6f7cb1&_ss=r, https://amzn.to/31T5FwN, PLA, 3D-Fuel, https://www.3dfuel.com/
+F3F2EA, https://www.3dfuel.com/collections/workday-pla/products/workday-pla-natural, https://amzn.to/30mesKY, PLA, 3D-Fuel, https://www.3dfuel.com/
+9393A5, None, None, PLA, Amazon Basics, https://amazon.com
+0D1276, None, None, PLA, Amazon Basics, https://amazon.com
+0D47A2, None, None, PLA, Amazon Basics, https://amazon.com
+E2BE01, None, None, PLA, Amazon Basics, https://amazon.com
+6527B3, None, None, PLA, Amazon Basics, https://amazon.com
+19161E, None, None, PLA, Amazon Basics, https://amazon.com
+249533, None, None, PLA, Amazon Basics, https://amazon.com
+B37F43, None, None, PLA, Amazon Basics, https://amazon.com
+D69E0C, None, None, PLA, Amazon Basics, https://amazon.com
+676371, None, None, PLA, Amazon Basics, https://amazon.com
+D60E17, None, None, PLA, Amazon Basics, https://amazon.com
+F8F9F4, None, None, PLA, Amazon Basics, https://amazon.com
+703727, None, None, PLA, Amazon Basics, https://amazon.com
+FB8312, None, None, PLA, Amazon Basics, https://amazon.com
+EE575E, None, None, PLA, Amazon Basics, https://amazon.com
+F8F8F5, None, None, PLA, Amazon Basics, https://amazon.com
+F9B2D4, None, None, PLA, Amazon Basics, https://amazon.com
+F2F0E8, None, None, PLA, Amazon Basics, https://amazon.com
+84C763, None, None, PLA, Amazon Basics, https://amazon.com
+DBD442, None, None, PLA, Amazon Basics, https://amazon.com
+8E5E0A, https://www.dasfilament.de/filament-spulen/pla-1-75-mm/100/pla-filament-1-75mm-gold, None, PLA, Das Filament, https://www.dasfilament.de/
+1D5310, None, None, PLA (High Print Temp), Maker Geeks, https://makergeeks3d.myshopify.com/
+0B09A9, https://coexllc.com/product/3d-filaments/pla-filament/pla-prime/cobalt-blue-pla-prime-175mm-500g/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+FD98D0, https://www.microcenter.com/product/504212/inland-premium-175mm-pink-pla-3d-printer-filament---1kg-spool-(22-lbs), https://www.amazon.com/gp/product/B07FMH5YLJ/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FMH5YLJ&linkId=20dbc5c999abc41e4994ce3e62d172ad, PLA 2, Inland, https://www.microcenter.com
+DFDDD2, None, None, PLA, Amazon Basics, https://amazon.com
+F9FB37, None, https://www.amazon.com/gp/product/B01HYYPKPE/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HYYPKPE&linkId=fe19266050770c0806e8f117e62b221b, PLA, AIO Robotics, None
+EEEEF2, None, https://www.amazon.com/gp/product/B01HYYPMAM/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HYYPMAM&linkId=c6f417c0ddb25fa9fbee8281b1c4e8ef, PLA, AIO Robotics, None
+164FF6, None, None, PLA, AIO Robotics, None
+E21531, None, https://www.amazon.com/gp/product/B01HYYPLT4/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HYYPLT4&linkId=948d1020ce56dd6ed8c5f1633fc7a083, PLA, AIO Robotics, None
+BA60D8, None, https://www.amazon.com/gp/product/B01HYYPTOQ/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HYYPTOQ&linkId=ce89256ad10764521e8beae34b7ef345, PLA, AIO Robotics, None
+F2B5E2, None, https://www.amazon.com/gp/product/B01HYYPT46/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HYYPT46&linkId=f1ad19c5018ea92e2dfced5af364b1ee, PLA, AIO Robotics, None
+FC5216, None, https://www.amazon.com/gp/product/B01HYYPIVA/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HYYPIVA&linkId=d40b1dcbcdda1c9b7d57112e55a39400, PLA, AIO Robotics, None
+BAB7C1, None, None, PLA, AIO Robotics, None
+019444, None, https://www.amazon.com/gp/product/B01HYYPTQY/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HYYPTQY&linkId=6be26348187e9405ddf9f1f078c870a1, PLA, AIO Robotics, None
+146AD8, None, https://www.amazon.com/gp/product/B0794SLTMB/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0794SLTMB&linkId=a92d80e1f17f9aa52489e0d834e14b47, PLA, AIO Robotics, None
+7BF503, None, https://www.amazon.com/gp/product/B01HYYPM84/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HYYPM84&linkId=05448713b2a5aeae6b4f0a9f1188ca1b, PLA, AIO Robotics, None
+696876, http://www.zyltech.com/uncle-jessys-gun-metal-silver-zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+73717F, https://shop.prusa3d.com/en/prusament/712-prusament-pla-galaxy-silver-1kg.html?search_query=silver&results=3, https://www.amazon.com/gp/product/B07M86ZS98/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07M86ZS98&linkId=f465648c8bb6d504b6ca6b381e68fd4c, PLA, Prusament, https://shop.prusa3d.com/en/42-prusament
+F6F5FC, None, https://www.amazon.com/gp/product/B01EKEMFQS/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EKEMFQS&linkId=4809a427ed27724ed611956006ce6fca, PLA 2, eSUN, https://esun3dstore.com/
+7F6621, None, https://www.amazon.com/gp/product/B07D7SYS7J/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D7SYS7J&linkId=1665c0798cf3ac19ce89bc58390f894b, PLA, Amolen, None
+252233, http://www.3dsolutech.com/store/pla/black-pla-filament-175mm-1kg-22-lbs, https://www.amazon.com/gp/product/B00ME7CV7C/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ME7CV7C&linkId=f40c8acef28512a396b14e23e8bd829f, PLA, 3D Solutech, http://www.3dsolutech.com/
+2B2938, http://www.zyltech.com/zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs-carbon-fiber/, None, PLA, Zyltech, http://www.zyltech.com/
+7D694C, None, https://www.amazon.com/TIANSE-Printer-Filament-Dimensional-Accuracy/dp/B06Y5LKB4X/ref=sr_1_14?m=A23K5L4D34B9MY&s=merchant-items&ie=UTF8&qid=1515046865&sr=1-14, PLA, Tianse-3D, https://www.facebook.com/pg/Tianse3D/shop/
+D5D6D6, https://gizmodorks.com/pla-3d-printer-filament/, https://www.amazon.com/gp/product/B00FG7BJLG/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00FG7BJLG&linkId=113c3051b3d48e208c71671807ffcf26, PLA, Gizmo Dorks, None
+0725D9, None, https://www.amazon.com/gp/product/B01EKEMNRO/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EKEMNRO&linkId=3252dca899714cee74c75119c047bd59, Pro PLA+, eSUN, https://esun3dstore.com/
+7305A3, http://colorme3d.com/purple-haze-pla-1-75/, https://www.amazon.com/gp/product/B07JHJZ19X/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07JHJZ19X&linkId=ca479eee8bd6ee4ecb93aee857b2c4a6, PLA, Color Me 3D, http://colorme3d.com/
+E426A8, https://www.3dfuel.com/products/ingeo-pla-island-fuchsia, None, PLA, 3D-Fuel, https://www.3dfuel.com/
+8D8C9B, https://www.3dfuel.com/products/ingeo-pla-steel-gray, None, PLA, 3D-Fuel, https://www.3dfuel.com/
+888695, https://www.3dfuel.com/products/pro-pla-industrial-gray, None, Pro PLA, 3D-Fuel, https://www.3dfuel.com/
+E51425, https://www.3dfuel.com/products/standard-pla-fire-engine-red, None, PLA, 3D-Fuel, https://www.3dfuel.com/
+6CD4FC, https://www.3dfuel.com/products/standard-pla-electric-blue, None, PLA, 3D-Fuel, https://www.3dfuel.com/
+FDED02, https://coexllc.com/product/3d-filaments/pla-filament/pla/taxicab-yellow-pla-175mm-1kg/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+E9123C, https://coexllc.com/product/3d-filaments/pla-filament/pla/scarlet-red-pla-1-75mm/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+E63649, https://coexllc.com/product/3d-filaments/pla-filament/pla/salsa-red-pla-175mm-1kg/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+137CED, https://coexllc.com/product/3d-filaments/pla-filament/pla/ocean-blue-pla-175mm-1kg/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+64102A, https://coexllc.com/product/3d-filaments/pla-filament/pla/merlot-red-pla-175mm-1kg/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+E643AB, https://coexllc.com/product/3d-filaments/pla-filament/pla/magenta-pink-pla-175mm-1kg/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+F0472D, https://coexllc.com/product/3d-filaments/pla-filament/pla/inferno-orange-pla-175mm-1kg/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+64495B, https://coexllc.com/product/3d-filaments/pla-filament/pla/iced-amethyst-pla-175mm-1kg/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+08501A, https://coexllc.com/product/3d-filaments/pla-filament/pla/green-bay-green-pla-175mm-1kg/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+46C7DA, https://coexllc.com/product/3d-filaments/pla-filament/pla/aqua-blue-pla-175mm-1kg/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+FDFDFE, https://atomicfilament.com/products/bright-white-pla-filament, None, PLA, Atomic Filament, https://atomicfilament.com/
+DFDED4, https://atomicfilament.com/products/bright-glow-in-the-dark-pla-filament, None, PLA, Atomic Filament, https://atomicfilament.com/
+15131A, https://atomicfilament.com/products/black-pla-filament, None, PLA, Atomic Filament, https://atomicfilament.com/
+372F36, https://atomicfilament.com/products/black-marble-pla-filament, None, PLA, Atomic Filament, https://atomicfilament.com/
+6D6B80, http://www.zyltech.com/original-silver-zyltech-pla-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/, None, PLA, Zyltech, http://www.zyltech.com/
+D3D1D9, None, https://www.amazon.com/gp/product/B01IIAC2MW/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IIAC2MW&linkId=595bdae38216d845dabf8555641649c2, PLA, Ziro, http://www.ziro3d.com
+38CF25, None, https://www.amazon.com/gp/product/B071XW5J6D/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071XW5J6D&linkId=1ae266bffec7c609c0163b504d0d01f7, PLA, Ziro, http://www.ziro3d.com
+6E6A30, None, https://www.amazon.com/gp/product/B01M4OLJ7N/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M4OLJ7N&linkId=6ac59ad3739e0c1d7a94f85891165607, PLA, SEGADEN, None
+620E8F, None, None, PLA, Rhino 3D, https://rhinoreel.com/
+DC131E, https://www.pushplastic.com/products/pla-filament?variant=13534677255, None, PLA, Push Plastic, https://www.pushplastic.com/
+0C4E78, https://www.proto-pasta.com/products/mermaids-tale-metallic-teal-htpla?aff=102, https://www.amazon.com/gp/product/B07DWGZFHZ/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DWGZFHZ&linkId=8c216b068ebc2eec2c2d4b6df7f57299, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+191492, https://www.proto-pasta.com/products/matte-fiber-htpla-blue?aff=102, https://www.amazon.com/gp/product/B07FM13XQW/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FM13XQW&linkId=5985d0c9aaa067b5739a0b7dae5c69b6, HTPLA, Proto-Pasta, https://www.proto-pasta.com
+FDEA05, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/sunshine-yellow-mad-maker-pla-1kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+0957E5, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/sapphire-mad-maker-pla-1kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+BB0924, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/ruby-mad-maker-pla-1kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+E2389D, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/rose-quartz-mad-maker-pla-1kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+027618, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/rainforest-green-mad-maker-pla-1kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+672817, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/moose-brown-mad-maker-pla-1-kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+028A54, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/emerald-mad-maker-pla-1kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+0C2F76, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/deep-sea-blue-mad-maker-pla-1kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+2A2730, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/coal-black-mad-maker-pla-1kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+DAE608, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/citrine-mad-maker-pla-1kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+40C1E9, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/aquamarine-mad-maker-pla-1kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+E0BB61, https://madmakerfilament.com/collections/mad-maker-pro-pla/products/amber-mad-maker-pla-1kg-1-75mm, None, PLA, ProtoParadigm, https://madmakerfilament.com
+B2B3C5, https://www.printedsolid.com/products/marble-colored-pla-filament-1kg, None, PLA, Printed Solid, https://www.printedsolid.com
+DB1C30, https://www.printedsolid.com/products/printed-solid-daily-pla-1-75mm-x-1kg?variant=12211025772629, None, PLA, Printed Solid, https://www.printedsolid.com
+F3B827, https://www.polyalchemy.com/products/elixir-pla-gold-rush-750g, None, PLA, Polyalchemy, https://www.polyalchemy.com/
+932627, https://www.paramount-3d.com/product-page/pla-pantone-iron-red-1815c-1-75mm-1kg-filament-irrl30111815c, https://www.amazon.com/gp/product/B01LZ2M0PH/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LZ2M0PH&linkId=aeefcaa5f20e7c2a27cedc60c93f6115, PLA, Paramount 3D, https://www.paramount-3d.com
+DB1575, https://www.paramount-3d.com/product-page/pla-pantone-harajuku-pink-675c-1-75mm-1kg-filament-tmrl4010-675c, https://amzn.to/2WOX8tL, PLA, Paramount 3D, https://www.paramount-3d.com
+D5D5D5, None, None, PLA, NatureWorks, https://www.natureworksllc.com/
+49C9E7, https://www.matterhackers.com/store/l/translucent-aqua-pro-series-pla-filament-1.75mm/sk/M75C10Z9, None, PLA, Matterhackers, https://www.matterhackers.com/
+191E82, None, None, PLA (High Print Temp), Maker Geeks, https://makergeeks3d.myshopify.com/
+2848E1, None, None, PLA (High Print Temp), Maker Geeks, https://makergeeks3d.myshopify.com/
+D90F1B, None, None, PLA (High Print Temp), Maker Geeks, https://makergeeks3d.myshopify.com/
+32D408, None, None, PLA (High Print Temp), Maker Geeks, https://makergeeks3d.myshopify.com/
+F2F2F3, None, None, PLA (High Print Temp), Maker Geeks, https://makergeeks3d.myshopify.com/
+807473, None, None, PLA (High Print Temp), Maker Geeks, https://makergeeks3d.myshopify.com/
+F5F4FD, https://www.microcenter.com/product/485641/175mm-white-pla-3d-printer-filament---1kg-spool-(22-lbs), https://www.amazon.com/gp/product/B00YQBAFX6/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YQBAFX6&linkId=e61a727db6abdf416d92723d72548b9e, PLA, Inland, https://www.microcenter.com
+FD97CF, https://www.microcenter.com/product/485635/175mm-pink-pla-3d-printer-filament---1kg-spool-(22-lbs), https://www.amazon.com/gp/product/B00YSP7AJ2/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YSP7AJ2&linkId=223f274724d0165f031101772f4138d0, PLA, Inland, https://www.microcenter.com
+6A3A1D, https://www.microcenter.com/product/486466/175mm-brown-pla-3d-printer-filament---1kg-spool-(22-lbs), https://www.amazon.com/gp/product/B01IPKWDVU/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IPKWDVU&linkId=53a41dbce1beedb04e76dc917ca57dd4, PLA, Inland, https://www.microcenter.com
+46C7E7, https://www.microcenter.com/product/504216/premium-175mm-light-blue-pla-3d-printer-filament---1kg-spool-(22-lbs), https://www.amazon.com/gp/product/B01IIS7U62/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IIS7U62&linkId=68a002e922a317984df93f34f14f02b2, PLA, Inland, https://www.microcenter.com
+EBD407, https://www.microcenter.com/product/485642/175mm-gold-pla-3d-printer-filament---1kg-spool-(22-lbs), https://www.amazon.com/gp/product/B00YSPP5A8/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YSPP5A8&linkId=7cd61bda796ddc75f94d1bb055364e6b, PLA, Inland, https://www.microcenter.com
+083BE4, https://www.microcenter.com/product/486459/175mm-egyptian-blue-pla-3d-printer-filament---1kg-spool-(22-lbs), https://www.amazon.com/gp/product/B01IPKINXC/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IPKINXC&linkId=acf912f67d1f902c8265d19da1553a7e, PLA, Inland, https://www.microcenter.com
+F78C30, https://ic3dprinters.com/shop/pla-filaments/, https://www.amazon.com/gp/product/B01LYBX3CT/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LYBX3CT&linkId=80625795ad0c4790ca74d3bce1cc1935, PLA, IC3D, https://ic3dprinters.com/
+98B2D5, None, https://www.amazon.com/gp/product/B07HBL29Y4/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07HBL29Y4&linkId=32e48fa1ec093e6da5fd072d7fc9bd80, PLA, Gizmo Dorks, None
+DF2B21, https://thefoxsmart.com/shop/pla-filament-2/, None, PLA, FoxSmart, https://thefoxsmart.com/
+342D35, https://www.filoalfa3d.com/en/specials-bundles/221-pla-grafilon-175-mm-700-g-8050327032712.html, None, PLA, FiloAlfa, https://www.filoalfa3d.com/
+B6D448, https://www.filacube.com/products/1-75mm-1kg-green-filacube-3d-printer-pla-2-filament, None, PLA, FilaCube, https://www.filacube.com/
+0E495B, None, https://www.amazon.com/gp/product/B01EKEMRY8/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EKEMRY8&linkId=01f7df7ffca5a5ceb40668098e062934, PLA 2, eSUN, https://esun3dstore.com/
+1F1C26, None, https://www.amazon.com/gp/product/B01EKEMDA6/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EKEMDA6&linkId=3719e80fb0e88a3ffde918c600aa9ad8, PLA 2, eSUN, https://esun3dstore.com/
+7D5021, None, https://www.amazon.com/gp/product/B01KKP5RZ2/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KKP5RZ2&linkId=eb86399b30b352d1215dd2a4652ed625, PLA, 3D-Fuel, https://www.3dfuel.com/
+716E7E, https://shop.dremel.com/3d-printer-filaments/, None, PLA, Dremel, https://shop.dremel.com/
+2F8EDD, https://www.dasfilament.de/filament-spulen/pla-1-75-mm/253/pla-filament-1-75mm-toms3d-infinity-blue, None, PLA, Das Filament, https://www.dasfilament.de/
+CDA675, https://colorfabb.com/woodfill, https://www.amazon.com/gp/product/B01080YKVG/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01080YKVG&linkId=53e410e8b2e2b55d87b3591257eaaf66, PLA, ColorFabb, https://colorfabb.com
+92826F, https://colorfabb.com/ngen-lux-champagne-gold, None, PLA, ColorFabb, https://colorfabb.com
+3D4466, https://colorfabb.com/blue-grey, https://www.amazon.com/gp/product/B010P3F6V4/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B010P3F6V4&linkId=dcad4fe183efe3347123746377562f7f, PLA/PHA, ColorFabb, https://colorfabb.com
+FA7D0F, https://coexllc.com/product/3d-filaments/pla-filament/pla/pumpkin-orange-pla/, None, PLA, COEX, https://coexllc.com/products/3d-filaments/
+0833D7, https://www.breathe-3dp.com/store.html#!/PLA-Blue/p/59687024/category=19994291, None, PLA++, Breathe-3DP, https://www.breathe-3dp.com/
+E4D8C2, None, None, PLA, bioFila, None
+F9F809, https://atomicfilament.com/products/yellow-pla-filament, None, PLA, Atomic Filament, https://atomicfilament.com/
+10FD12, https://atomicfilament.com/products/fluorescent-translucent-uv-reactive-neon-green, None, PLA, Atomic Filament, https://atomicfilament.com/
+CFD1DD, https://atomicfilament.com/products/marble-pla-filament, None, PLA, Atomic Filament, https://atomicfilament.com/
+47FC17, None, None, PLA, Atomic Filament, https://atomicfilament.com/
+DA111C, https://www.aprintapro.com/shop/mirandament/, None, PLA, APrintaPro, https://www.aprintapro.com/
+67D4FC, None, https://www.amazon.com/gp/product/B01HYYPLTO/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HYYPLTO&linkId=e3cf44addf00c84a57523fb703869588, PLA, AIO Robotics, None
+6A6876, http://www.3dsolutech.com/store/pla/silver-pla-filament-175mm-1kg-22-lbs, https://www.amazon.com/gp/product/B00ME7YUIU/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ME7YUIU&linkId=be49bd596b479c426c7869f98ac06595, PLA, 3D Solutech, http://www.3dsolutech.com/
+6A270D, http://www.3dsolutech.com/store/pla/brown-pla-filament-175mm-1kg-22-lbs, https://www.amazon.com/gp/product/B00ME7FA7U/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ME7FA7U&linkId=0d4b331230ffe36d8d140496940d2d7c, PLA, 3D Solutech, http://www.3dsolutech.com/
+E32B7D, https://www.3dprintlife.com/http/www3dprintlifecom/filaments/playphab-plapha-blend, https://www.amazon.com/gp/product/B01BCZA5UG/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01BCZA5UG&linkId=3b74b33a9ce311b43c1f4b9128359fa8, PLA/PHA, 3D Printlife, https://www.3dprintlife.com/
+906443, None, https://www.amazon.com/gp/product/B07574422N/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07574422N&linkId=44d41412f54a3d544efd2c26fc2f23fd, PLA, 3D Best-Q, None
+1435D8, None, None, PLA, Rhino 3D, https://rhinoreel.com/
+EFDFE6, None, https://www.amazon.com/gp/product/B07H4R1YD6/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07H4R1YD6&linkId=33c7898b2c6ffa522db4cd8a2b4d628e, PLA, Amolen, None
+EB2745, None, None, PLA, Rhino 3D, https://rhinoreel.com/
+901D33, https://usmonofilaments.com/collections/pla-filaments/products/maroon-pla-1-75mm-natureworks-3d850-high-temp, None, PLA, U.S. Monofilaments, https://usmonofilaments.com/
+B19EDA, https://fillamentum.com/products/pla-extrafill-lilac, https://www.amazon.com/gp/product/B07JBS89SX/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07JBS89SX&linkId=cc7bb0272c5c2319836c70e3276d5395, PLA, Fillamentum, https://fillamentum.com/
+6EEBE4, https://www.pushplastic.com/products/pla-filament?variant=32364539658, None, PLA, Push Plastic, https://www.pushplastic.com/
+FDF402, None, https://www.amazon.com/gp/product/B017YHVUYG/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B017YHVUYG&linkId=2bc2d0acb7b388df7fbbcf57f1fb6cea, PLA, Purement, None
+BCEC9A, None, None, PLA, Amazon Basics, https://amazon.com
+6F30C4, https://www.microcenter.com/product/485638/inland-175mm-purple-pla-3d-printer-filament---1kg-spool-(22-lbs), https://www.amazon.com/gp/product/B00YSPN7Q2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YSPN7Q2&linkCode=as2&tag=filamentcol0c-20&linkId=1bf65239a52eed0f9b297ca672f1f7ee, PLA, Inland, https://www.microcenter.com
