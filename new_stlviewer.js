@@ -1,11 +1,15 @@
 function find_same_color(){
     var div = document.getElementById('pla_link');
-    pla_info = nearestColor(document.getElementById("color").value); 
+    div.innerHTML = "";
+    pla_return = nearestColor(document.getElementById("color").value); 
     //div.innerHTML += "<b> " + pla_info[4] +"</b> <p> " +pla_info[3] +" <a href =\"" + pla_info[1] + "\"> Link </a></p>"  ;
+    for (let index = 0; index < pla_return.length; index++) {
+        pla_info = pla_return[index];
     if( pla_info[1] != "None"){
-        div.innerHTML = "<b> " + pla_info[4] +"</b> <p> " +pla_info[3] +" <a href =\"" + pla_info[1] + "\"> Link </a></p>"  ;
+        div.innerHTML += "<b> " + pla_info[4] +"</b> <p> " +pla_info[3] +" <a href =\"" + pla_info[1] + "\"> Link </a></p><br>"  ;
     }else{
-        div.innerHTML = "<b> " + pla_info[4] +"</b> <p> " +pla_info[3] +" <a href =\"" + pla_info[2] + "\"> Link </a></p>"  ;
+        div.innerHTML += "<b> " + pla_info[4] +"</b> <p> " +pla_info[3] +" <a href =\"" + pla_info[2] + "\"> Link </a></p><br>"  ;
+    }
     }
 }
 function get_pla_colors(){
@@ -68,8 +72,15 @@ function nearestColor(colorHex){
   var low_index = 0;
   var tmp;
   let index = 0;
+  var lowests = [[1000, 0],[1000, 0],[1000, 0]]
   while(index < baseColors.length){
       tmp = distance(hexToRgb(colorHex), hexToRgb(baseColors[index][0]))
+    if(lowests[0][0] > tmp){
+        console.log(lowests);
+        lowests[0] = [tmp, index];
+        lowests.sort();
+        //lowests = lowests.reverse();
+    }
       if (tmp < lowest) {
         lowest = tmp;
         low_index = index;
@@ -77,7 +88,9 @@ function nearestColor(colorHex){
       
         index = index + 1;
     };
-  return baseColors[low_index];
+    lowests.sort();
+    
+  return [baseColors[lowests[0][1]], baseColors[lowests[1][1]], baseColors[lowests[2][1]] ];
   
 }
 const baseColors = get_pla_colors()
