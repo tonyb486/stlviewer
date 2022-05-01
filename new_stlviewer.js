@@ -255,6 +255,14 @@ scene.add(light);
             scene.background = bgTexture;
 
         }
+        if(model.indexOf("INVADER" ) != -1){
+            mesh.position.z += 20;
+            mesh.position.y -= 14;
+        }
+        if(model.indexOf("DNL" ) != -1){
+            mesh.position.z += 1;
+            mesh.position.y += 2;
+        }
         //rotate to look better
         /*
             mesh.rotation.y  -= Math.PI/8;
