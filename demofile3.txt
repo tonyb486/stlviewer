@@ -1,52 +1,52 @@
-2C3274, https://www.microcenter.com/product/611554/inland-175mm-dark-blue-pla-3d-printer-filament-1kg-spool-(22-lbs), None, PLA+, Inland, https://www.microcenter.com
-FBFCF4, https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329912541443, None, PLA+, Eolas Prints, https://eolasprints.com/
-FDA33A, https://www.microcenter.com/product/623250/inland-175mm-orange-tough-pla-3d-printer-filament-1kg-spool-(22-lbs), https://amzn.to/3j2t34U, PLA+, Inland, https://www.microcenter.com
-F8160A, https://us.polymaker.com/products/polymax-pla?variant=39574349643833, None, PolyMax PLA, Polymaker, https://polymaker.com/
-FCFCFC, None, https://amzn.to/365PGmo, PLA+, eSUN, https://esun3dstore.com/
-B0784F, None, https://amzn.to/3N7Z8WI, PLA+, eSUN, https://esun3dstore.com/
-FBFB04, None, https://www.amazon.com/eSUN-1-75mm-Purple-Printer-Filament/dp/B01EKEMS06/ref=sr_1_3?keywords=eSUN%2BPurple%2BPLA&qid=1647751043&sr=8-3&th=1, PLA+, eSUN, https://esun3dstore.com/
-9606BC, None, https://amzn.to/3L182U2, PLA+, eSUN, https://esun3dstore.com/
-2F2C2F, None, https://amzn.to/3J5dK64, PLA+, Inland, https://www.microcenter.com
-FA8406, None, https://amzn.to/3IowSvI, PLA+, Kodak, https://www.kodak.com/US/en/consumer/products/3d-printing/default.htm?cid=go&idhbx=3dprinting
-D9090E, https://esun3dstore.com/collections/3d-printing-filament/products/esun-3d-printer-filament-pla-1-75mm-dimensional-accuracy-0-03mm-1kg-2-2-lbs-spool-3d-printing-material-for-3d-printers?variant=3805095, https://amzn.to/3x1a2Il, PLA+, eSUN, https://esun3dstore.com/
-CEE6F5, None, None, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-0EBDF9, https://www.proto-pasta.com/products/glitter-flake-htpla-v2-winter-blue?_pos=1&_sid=66faec986&_ss=r&aff=102, https://amzn.to/2YCuAE3, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-AFAEAB, https://www.proto-pasta.com/products/high-performance-htpla-silver-smoke?_pos=1&_sid=0f6c440e9&_ss=r&aff=102, https://amzn.to/3d8ZpG1, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-F9651A, https://www.proto-pasta.com/products/tangerine-orange-metallic-gold-htpla?_pos=1&_sid=d0c2ac5f2&_ss=r&aff=102, https://amzn.to/37uk0D9, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-234CD1, https://www.proto-pasta.com/products/premium-htpla-v3-blue?_pos=1&_sid=6be2868dc&_ss=r&aff=102, https://amzn.to/3foeHYH, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-F4F3F4, https://www.proto-pasta.com/products/premium-htpla-v3-white?_pos=1&_sid=d0e01c981&_ss=r&aff=102, https://amzn.to/3hsLfmf, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-ECEEEE, https://www.proto-pasta.com/products/premium-htpla-v3-natural?_pos=1&_sid=e9e04cf25&_ss=r&aff=102, https://amzn.to/3fmhp0W, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-141414, https://www.proto-pasta.com/products/premium-htpla-v3-black?_pos=1&_sid=0f35aca3c&_ss=r&aff=102, https://amzn.to/2AA7shF, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-FCC102, https://www.proto-pasta.com/products/matte-fiber-htpla-yellow?_pos=1&_sid=d7aea284d&_ss=r&aff=102, https://amzn.to/2MZBLkA, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-FC7A12, https://www.proto-pasta.com/products/matte-fiber-htpla-orange?_pos=1&_sid=a0047a579&_ss=r&aff=102, https://amzn.to/3e2YUyp, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-107D66, https://www.proto-pasta.com/products/matte-fiber-htpla-green?_pos=1&_sid=81095029b&_ss=r&aff=102, https://amzn.to/3hs060a, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-888B92, https://www.proto-pasta.com/products/matte-fiber-htpla-gray?_pos=1&_sid=9a06837e6&_ss=r&aff=102, https://amzn.to/2V2NNxa, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-2C2C2C, https://www.proto-pasta.com/products/high-performance-htpla-matte-fiber?aff=102, https://amzn.to/2xMXSGA, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-167EE4, https://www.proto-pasta.com/products/metallic-htpla-v3-highfive-blue?aff=102, https://amzn.to/3ayCeUF, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-463658, https://www.proto-pasta.com/products/galactic-empire-metallic-purple-htpla?_pos=1&_sid=6fb40b3d3&_ss=r&aff=102, https://amzn.to/2Sk4zqc, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-242424, https://www.proto-pasta.com/products/empire-strikes-metallic-black-htpla?_pos=2&_sid=6fb40b3d3&_ss=r&aff=102, https://amzn.to/2OswSl6, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-7D4B2E, https://www.proto-pasta.com/products/double-espresso-metallic-brown-htpla?_pos=1&_sid=f63ebfc0c&_ss=r&aff=102, https://amzn.to/2OrPHoA, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-F1728D, https://www.proto-pasta.com/products/cupids-crush-metallic-pink-htpla?_pos=1&_sid=890fb2046&_ss=r&aff=102, https://amzn.to/2v9tWCX, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-0A522D, https://www.proto-pasta.com/products/cloverleaf-metallic-green-htpla?_pos=1&_sid=d63292ebb&_ss=r&aff=102, https://amzn.to/2GXidtT, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-2B83B4, https://www.proto-pasta.com/products/wonder-blue-glitter-flake-htpla?_pos=1&_sid=577435e02&_ss=r&aff=102, https://amzn.to/370TXl8, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-C7845A, https://www.proto-pasta.com/products/copy-of-matte-fiber-pine-htpla-2018-special-edition?aff=102, None, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-C81515, https://www.proto-pasta.com/products/glitter-flake-htpla-v2-candy-apple-red?_pos=1&_sid=d885272b6&_ss=r&aff=102, https://amzn.to/2ptnKTy, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-B1B7C1, https://www.proto-pasta.com/products/light-grey-carbon-fiber-composite-htpla?_pos=1&_sid=89b9c44b2&_ss=r&aff=102, https://amzn.to/2ooCkuZ, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-F2CD25, https://www.proto-pasta.com/products/steves-electric-lemonade-metallic-yellow-htpla?_pos=1&_sid=16f3eb291&_ss=r&aff=102, https://amzn.to/2olEVG2, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-C36334, https://www.proto-pasta.com/products/copper-metal-composite-htpla?_pos=2&_sid=e502423dc&_ss=r&aff=102, https://amzn.to/2mVRckg, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-767F8A, https://www.proto-pasta.com/products/medium-grey-carbon-fiber-composite-htpla?_pos=1&_sid=60f11b8ae&_ss=r&aff=102, https://amzn.to/2m71fCy, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-B8491C, https://www.proto-pasta.com/products/burnt-orange-metallic-copper-htpla?_pos=1&_sid=f6df337d0&_ss=r&aff=102, https://amzn.to/2olMDjt, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-795744, https://www.proto-pasta.com/products/bronze-metal-composite-htpla?_pos=1&_sid=364f55b3f&_ss=r&aff=102, https://amzn.to/2mMS6j8, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-B48E35, https://www.proto-pasta.com/products/brass-metal-composite-htpla?_pos=1&_sid=8d1850fbf&_ss=r&aff=102, https://amzn.to/2nHcG4y, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-C1C1BC, https://www.proto-pasta.com/products/glitter-flake-htpla-stardust?_pos=1&_sid=fbf639d43&_ss=r, https://amzn.to/2LHHICD, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-DE131C, https://www.proto-pasta.com/products/premium-htpla-v3-red?_pos=1&_sid=64eb1d606&_ss=r&aff=102, https://amzn.to/353VOWQ, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-FEFEF2, https://www.proto-pasta.com/products/matte-fiber-htpla-white?_pos=7&_sid=0ac8ea1d2&_ss=r&aff=102, https://amzn.to/30gPCLz, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-E5232F, https://www.proto-pasta.com/products/matte-fiber-htpla-red?_pos=6&_sid=0ac8ea1d2&_ss=r&aff=102, https://amzn.to/2OgZ5Mg, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-4557A9, https://www.proto-pasta.com/products/matte-fiber-htpla-blue?_pos=1&_sid=0ac8ea1d2&_ss=r&aff=102, https://amzn.to/2LG0z14, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-D1A963, https://www.proto-pasta.com/products/gold-dust-glitter-flake-htpla?_pos=1&_sid=fb1d58c42&_ss=r&aff=102, https://amzn.to/353A4dJ, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-D8CF15, https://www.proto-pasta.com/products/for-the-lulz-metallic-green-htpla?_pos=1&_sid=c87d44184&_ss=r&aff=102, https://amzn.to/352bNEC, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-0725D9, None, https://www.amazon.com/gp/product/B01EKEMNRO/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EKEMNRO&linkId=3252dca899714cee74c75119c047bd59, Pro PLA+, eSUN, https://esun3dstore.com/
-0C4E78, https://www.proto-pasta.com/products/mermaids-tale-metallic-teal-htpla?aff=102, https://www.amazon.com/gp/product/B07DWGZFHZ/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DWGZFHZ&linkId=8c216b068ebc2eec2c2d4b6df7f57299, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-191492, https://www.proto-pasta.com/products/matte-fiber-htpla-blue?aff=102, https://www.amazon.com/gp/product/B07FM13XQW/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FM13XQW&linkId=5985d0c9aaa067b5739a0b7dae5c69b6, HTPLA, Proto-Pasta, https://www.proto-pasta.com
-EFEEF5, https://polymaker.com/product/polymax-pc/, https://www.amazon.com/gp/product/B01GDURWH4/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01GDURWH4&linkId=d1dfd98e1bf81e721bca0986e18f1272, PolyMax PC, Polymaker, https://polymaker.com/
-0833D7, https://www.breathe-3dp.com/store.html#!/PLA-Blue/p/59687024/category=19994291, None, PLA++, Breathe-3DP, https://www.breathe-3dp.com/
+2C3274, https://www.microcenter.com/product/611554/inland-175mm-dark-blue-pla-3d-printer-filament-1kg-spool-(22-lbs), None, PLA+, Inland, https://www.microcenter.com, Dark Blue
+FBFCF4, https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329912541443, None, PLA+, Eolas Prints, https://eolasprints.com/, Beige / Off White
+FDA33A, https://www.microcenter.com/product/623250/inland-175mm-orange-tough-pla-3d-printer-filament-1kg-spool-(22-lbs), https://amzn.to/3j2t34U, PLA+, Inland, https://www.microcenter.com, Orange
+F8160A, https://us.polymaker.com/products/polymax-pla?variant=39574349643833, None, PolyMax PLA, Polymaker, https://polymaker.com/, Red
+FCFCFC, None, https://amzn.to/365PGmo, PLA+, eSUN, https://esun3dstore.com/, Cool White
+B0784F, None, https://amzn.to/3N7Z8WI, PLA+, eSUN, https://esun3dstore.com/, Brown
+FBFB04, None, https://www.amazon.com/eSUN-1-75mm-Purple-Printer-Filament/dp/B01EKEMS06/ref=sr_1_3?keywords=eSUN%2BPurple%2BPLA&qid=1647751043&sr=8-3&th=1, PLA+, eSUN, https://esun3dstore.com/, Yellow
+9606BC, None, https://amzn.to/3L182U2, PLA+, eSUN, https://esun3dstore.com/, Purple
+2F2C2F, None, https://amzn.to/3J5dK64, PLA+, Inland, https://www.microcenter.com, Black
+FA8406, None, https://amzn.to/3IowSvI, PLA+, Kodak, https://www.kodak.com/US/en/consumer/products/3d-printing/default.htm?cid=go&idhbx=3dprinting, Orange
+D9090E, https://esun3dstore.com/collections/3d-printing-filament/products/esun-3d-printer-filament-pla-1-75mm-dimensional-accuracy-0-03mm-1kg-2-2-lbs-spool-3d-printing-material-for-3d-printers?variant=3805095, https://amzn.to/3x1a2Il, PLA+, eSUN, https://esun3dstore.com/, Fire Engine Red
+CEE6F5, None, None, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Powder Puff Unicorn
+0EBDF9, https://www.proto-pasta.com/products/glitter-flake-htpla-v2-winter-blue?_pos=1&_sid=66faec986&_ss=r&aff=102, https://amzn.to/2YCuAE3, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Winter Blue Glitter Flake
+AFAEAB, https://www.proto-pasta.com/products/high-performance-htpla-silver-smoke?_pos=1&_sid=0f6c440e9&_ss=r&aff=102, https://amzn.to/3d8ZpG1, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Translucent Silver Smoke
+F9651A, https://www.proto-pasta.com/products/tangerine-orange-metallic-gold-htpla?_pos=1&_sid=d0c2ac5f2&_ss=r&aff=102, https://amzn.to/37uk0D9, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Tangerine Orange Metallic Gold
+234CD1, https://www.proto-pasta.com/products/premium-htpla-v3-blue?_pos=1&_sid=6be2868dc&_ss=r&aff=102, https://amzn.to/3foeHYH, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Opaque Blue
+F4F3F4, https://www.proto-pasta.com/products/premium-htpla-v3-white?_pos=1&_sid=d0e01c981&_ss=r&aff=102, https://amzn.to/3hsLfmf, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Opaque White
+ECEEEE, https://www.proto-pasta.com/products/premium-htpla-v3-natural?_pos=1&_sid=e9e04cf25&_ss=r&aff=102, https://amzn.to/3fmhp0W, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Opaque Natural
+141414, https://www.proto-pasta.com/products/premium-htpla-v3-black?_pos=1&_sid=0f35aca3c&_ss=r&aff=102, https://amzn.to/2AA7shF, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Opaque Black
+FCC102, https://www.proto-pasta.com/products/matte-fiber-htpla-yellow?_pos=1&_sid=d7aea284d&_ss=r&aff=102, https://amzn.to/2MZBLkA, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Matte Fiber Yellow
+FC7A12, https://www.proto-pasta.com/products/matte-fiber-htpla-orange?_pos=1&_sid=a0047a579&_ss=r&aff=102, https://amzn.to/3e2YUyp, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Matte Fiber Orange
+107D66, https://www.proto-pasta.com/products/matte-fiber-htpla-green?_pos=1&_sid=81095029b&_ss=r&aff=102, https://amzn.to/3hs060a, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Matte Fiber Green
+888B92, https://www.proto-pasta.com/products/matte-fiber-htpla-gray?_pos=1&_sid=9a06837e6&_ss=r&aff=102, https://amzn.to/2V2NNxa, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Matte Fiber Gray
+2C2C2C, https://www.proto-pasta.com/products/high-performance-htpla-matte-fiber?aff=102, https://amzn.to/2xMXSGA, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Matte Fiber Black
+167EE4, https://www.proto-pasta.com/products/metallic-htpla-v3-highfive-blue?aff=102, https://amzn.to/3ayCeUF, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Joel's Highfive Blue
+463658, https://www.proto-pasta.com/products/galactic-empire-metallic-purple-htpla?_pos=1&_sid=6fb40b3d3&_ss=r&aff=102, https://amzn.to/2Sk4zqc, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Galactic Empire Metallic Purple
+242424, https://www.proto-pasta.com/products/empire-strikes-metallic-black-htpla?_pos=2&_sid=6fb40b3d3&_ss=r&aff=102, https://amzn.to/2OswSl6, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Empire Strikes Metallic Black
+7D4B2E, https://www.proto-pasta.com/products/double-espresso-metallic-brown-htpla?_pos=1&_sid=f63ebfc0c&_ss=r&aff=102, https://amzn.to/2OrPHoA, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Double Espresso Metallic Brown
+F1728D, https://www.proto-pasta.com/products/cupids-crush-metallic-pink-htpla?_pos=1&_sid=890fb2046&_ss=r&aff=102, https://amzn.to/2v9tWCX, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Cupid's Crush Metallic Pink
+0A522D, https://www.proto-pasta.com/products/cloverleaf-metallic-green-htpla?_pos=1&_sid=d63292ebb&_ss=r&aff=102, https://amzn.to/2GXidtT, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Cloverleaf Metallic Green
+2B83B4, https://www.proto-pasta.com/products/wonder-blue-glitter-flake-htpla?_pos=1&_sid=577435e02&_ss=r&aff=102, https://amzn.to/370TXl8, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Blue Wonder Glitter Flake
+C7845A, https://www.proto-pasta.com/products/copy-of-matte-fiber-pine-htpla-2018-special-edition?aff=102, None, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Aromatic Pine 2017
+C81515, https://www.proto-pasta.com/products/glitter-flake-htpla-v2-candy-apple-red?_pos=1&_sid=d885272b6&_ss=r&aff=102, https://amzn.to/2ptnKTy, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Candy Apple Metallic Red
+B1B7C1, https://www.proto-pasta.com/products/light-grey-carbon-fiber-composite-htpla?_pos=1&_sid=89b9c44b2&_ss=r&aff=102, https://amzn.to/2ooCkuZ, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Light Gray Carbon Fiber
+F2CD25, https://www.proto-pasta.com/products/steves-electric-lemonade-metallic-yellow-htpla?_pos=1&_sid=16f3eb291&_ss=r&aff=102, https://amzn.to/2olEVG2, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Electric Lemonade Metallic Yellow
+C36334, https://www.proto-pasta.com/products/copper-metal-composite-htpla?_pos=2&_sid=e502423dc&_ss=r&aff=102, https://amzn.to/2mVRckg, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Copper Composite
+767F8A, https://www.proto-pasta.com/products/medium-grey-carbon-fiber-composite-htpla?_pos=1&_sid=60f11b8ae&_ss=r&aff=102, https://amzn.to/2m71fCy, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Medium Gray Carbon Fiber
+B8491C, https://www.proto-pasta.com/products/burnt-orange-metallic-copper-htpla?_pos=1&_sid=f6df337d0&_ss=r&aff=102, https://amzn.to/2olMDjt, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Burnt Orange Metallic Copper
+795744, https://www.proto-pasta.com/products/bronze-metal-composite-htpla?_pos=1&_sid=364f55b3f&_ss=r&aff=102, https://amzn.to/2mMS6j8, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Bronze Composite
+B48E35, https://www.proto-pasta.com/products/brass-metal-composite-htpla?_pos=1&_sid=8d1850fbf&_ss=r&aff=102, https://amzn.to/2nHcG4y, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Brass Composite
+C1C1BC, https://www.proto-pasta.com/products/glitter-flake-htpla-stardust?_pos=1&_sid=fbf639d43&_ss=r, https://amzn.to/2LHHICD, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Stardust Glitter Flake
+DE131C, https://www.proto-pasta.com/products/premium-htpla-v3-red?_pos=1&_sid=64eb1d606&_ss=r&aff=102, https://amzn.to/353VOWQ, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Red Opaque
+FEFEF2, https://www.proto-pasta.com/products/matte-fiber-htpla-white?_pos=7&_sid=0ac8ea1d2&_ss=r&aff=102, https://amzn.to/30gPCLz, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Matte Fiber White
+E5232F, https://www.proto-pasta.com/products/matte-fiber-htpla-red?_pos=6&_sid=0ac8ea1d2&_ss=r&aff=102, https://amzn.to/2OgZ5Mg, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Matte Fiber Red
+4557A9, https://www.proto-pasta.com/products/matte-fiber-htpla-blue?_pos=1&_sid=0ac8ea1d2&_ss=r&aff=102, https://amzn.to/2LG0z14, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Matte Fiber Blue
+D1A963, https://www.proto-pasta.com/products/gold-dust-glitter-flake-htpla?_pos=1&_sid=fb1d58c42&_ss=r&aff=102, https://amzn.to/353A4dJ, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Gold Dust Glitter Flake
+D8CF15, https://www.proto-pasta.com/products/for-the-lulz-metallic-green-htpla?_pos=1&_sid=c87d44184&_ss=r&aff=102, https://amzn.to/352bNEC, HTPLA, Proto-Pasta, https://www.proto-pasta.com, For The Lulz Metallic Green
+0725D9, None, https://www.amazon.com/gp/product/B01EKEMNRO/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EKEMNRO&linkId=3252dca899714cee74c75119c047bd59, Pro PLA+, eSUN, https://esun3dstore.com/, Blue
+0C4E78, https://www.proto-pasta.com/products/mermaids-tale-metallic-teal-htpla?aff=102, https://www.amazon.com/gp/product/B07DWGZFHZ/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DWGZFHZ&linkId=8c216b068ebc2eec2c2d4b6df7f57299, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Mermaid's Tale Metallic Teal
+191492, https://www.proto-pasta.com/products/matte-fiber-htpla-blue?aff=102, https://www.amazon.com/gp/product/B07FM13XQW/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FM13XQW&linkId=5985d0c9aaa067b5739a0b7dae5c69b6, HTPLA, Proto-Pasta, https://www.proto-pasta.com, Matte Fiber Blue
+EFEEF5, https://polymaker.com/product/polymax-pc/, https://www.amazon.com/gp/product/B01GDURWH4/ref=as_li_tl?ie=UTF8&tag=filamentcol0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01GDURWH4&linkId=d1dfd98e1bf81e721bca0986e18f1272, PolyMax PC, Polymaker, https://polymaker.com/, White
+0833D7, https://www.breathe-3dp.com/store.html#!/PLA-Blue/p/59687024/category=19994291, None, PLA++, Breathe-3DP, https://www.breathe-3dp.com/, Blue

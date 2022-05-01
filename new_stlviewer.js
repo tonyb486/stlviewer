@@ -5,10 +5,11 @@ function find_same_color(){
     //div.innerHTML += "<b> " + pla_info[4] +"</b> <p> " +pla_info[3] +" <a href =\"" + pla_info[1] + "\"> Link </a></p>"  ;
     for (let index = 0; index < pla_return.length; index++) {
         pla_info = pla_return[index];
+        console.log(pla_info)
     if( pla_info[1] != "None"){
-        div.innerHTML += "<b> " + pla_info[4] +"</b> <p> " +pla_info[3] +" <a href =\"" + pla_info[1] + "\"> Link </a></p><br>"  ;
+        div.innerHTML += "<b> " + pla_info[4] +"</b>" + pla_info[6]+ "   <p> " +pla_info[3] +" <a href =\"" + pla_info[1] + "\"> Link </a></p><br>"  ;
     }else{
-        div.innerHTML += "<b> " + pla_info[4] +"</b> <p> " +pla_info[3] +" <a href =\"" + pla_info[2] + "\"> Link </a></p><br>"  ;
+        div.innerHTML += "<b> " + pla_info[4] +"</b>"+ pla_info[6]+ "  <p> " +pla_info[3] +" <a href =\"" + pla_info[2] + "\"> Link </a></p><br>"  ;
     }
     }
 }
