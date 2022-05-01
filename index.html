@@ -1,105 +1,162 @@
 <!doctype html>
-
+<html lang="en">
 <head>
-    <!-- CSS only -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-
-    <style type="text/css">
-       div.stlviewer { height: 900px;
-        width: 100%;
-        margin: auto;
-        top: 0px;
-        position: absolute;
-     }
-    </style>
-    <!-- JavaScript Bundle, Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-
-    <script type=text/javascript> 
-	window.onload=function() {
-		STLViewerEnable("stlviewer", "19-BLONK.stl");
-	 } 
-
-    </script>
-    <script>
-        function myFunction() {
-        var x = document.getElementById("frame").value;
-        var y = document.getElementById("color").value;
-        //console.log(x)
-        document.getElementById("demo").remove()
-        var elemDiv = document.createElement('div');
-        elemDiv.className = "stlviewer"
-        elemDiv.id = "demo"
-        document.body.appendChild(elemDiv);
-		STLViewerEnable("stlviewer", x, y);
-        }
-        function color_update(){
-            var color_hx = document.getElementById("color").value;
-            var material = new THREE.MeshPhongMaterial({ color: color_hx, specular: 100, shininess: 65 });
-            hold_frame.material = material
-            
-        }
-    </script>
-    <script src="three.js/build/three.min.js"></script>
-    
-    <script src="three.js/examples/js/loaders/STLLoader.js"></script>
-    <script src="three.js/examples/js/loaders/GLTFLoader.js"></script>
-    <script src="three.js/examples/js/controls/ArcballControls.js"></script>
-    <script src="new_stlviewer.js"></script>
-    <title>A Simple STL Viewer, Three.js</title>
+  <meta charset="UTF-8">
+  <title>Evangelion 404</title>
+  <style>
+      html, body{
+    background: #231A1B;
+    color:#DD8F2B;
+    display:block;
+    height:100vh;
+    width:100vw;
+    padding:0;
+    margin:0;
+    font-family: Arial;
+    text-shadow:0 0 10px;
+    font-size:64px;
+    filter: blur(1px);
+    line-height:1rem;
+    overflow:hidden;
+}
+#bg1, #bg2{
+    display:block;
+    content:'';
+    width:50vw;
+    height:100vh;
+    position:absolute;
+    z-index:-2;
+    animation: blink 2s linear infinite;
+}
+#bg1{
+    top:0;
+    left:0;
+    background: repeating-linear-gradient(
+            -45deg,
+            #231A1B,
+            #231A1B 100px,
+            #CE212B 101px,
+            #DD8F2B 103px,
+            #DD8F2B 200px,
+            #CE212B 202px
+    );
+}
+#bg2{
+    top:0;
+    right:0;
+    background: repeating-linear-gradient(
+            45deg,
+            #231A1B,
+            #231A1B 100px,
+            #CE212B 101px,
+            #DD8F2B 103px,
+            #DD8F2B 200px,
+            #CE212B 202px
+    );
+}
+#container{
+    height:100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#content{
+    width:100vw;
+    display:inline-block;
+    text-align:center;
+    padding:10px 0;
+}
+h1{
+    padding:0;
+    margin:0;
+    font-size:2rem;
+    line-height:1.75rem;
+}
+.main{
+    position:relative;
+    padding:10px 0;
+    margin:-5px;
+    border-top: 15px solid #CE212B;
+    border-bottom: 15px solid #CE212B;
+    box-shadow: 0 0 10px #CE212B, 0 0 10px #CE212B inset;
+}
+.black-bg:after{
+    position:absolute;
+    display:block;
+    content:'';
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    z-index:-1;
+    background: #231A1B;
+    box-shadow: 0 0 2px 40px #231A1B;
+}
+.black-bg-small:after{
+    position:absolute;
+    display:block;
+    content:'';
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    z-index:-1;
+    background: #231A1B;
+    box-shadow: 0 0 2px 15px #231A1B;
+    border-radius: 5px;
+}
+.bigtext{
+    animation: scroll 4s linear infinite;
+}
+.secondary{
+    opacity:0.75;
+    animation: scroll 10s linear infinite;
+}
+.cartridge{
+    position:relative;
+    display:inline-block;
+    border: 5px solid #DD8F2B;
+    border-radius: 10px;
+    padding:10px;
+    font-size:2rem;
+    font-weight:bold;
+    line-height:2rem;
+}
+@keyframes scroll {
+    from{ transform: translateX(80vw)}
+    to{ transform: translateX(-80vw)}
+}
+@keyframes blink {
+    0%{ opacity: 1}
+    40%{ opacity: 0}
+    60%{ opacity: 0}
+    100%{ opacity: 1}
+}
+  </style>
 </head>
-
-<body style="background-color: #6A6060;">
-    <div class = "card" style="width: 36rem; z-index: 1;">
-    <h1 style="z-index: 2;">
-        Dagger Configurator
-    </h1>
-    <label for="cars">Frame</label>
-
-<select class ="form-select" name="cars" id="frame" onchange="myFunction()">
-<option value="19-BLONK.STL">19-BLONK</option>
-<option value="19 BIG CORAL NO MICROTEXTURE.STL">19 BIG CORAL NO MICROTEXTURE</option>
-<option value="19 BIG CORAL.STL">19 BIG CORAL</option>
-<option value="19 ENGRAVED NO MICROTEXTURE.STL">19 ENGRAVED NO MICROTEXTURE</option>
-<option value="19 HEX NO MICROTEXTURE.STL">19 HEX NO MICROTEXTURE</option>
-<option value="19 HEX.STL">19 HEX</option>
-<option value="19 STANDARD NO MICROTEXTURE.STL">19 STANDARD NO MICROTEXTURE</option>
-<option value="19 STANDARD.STL">19 STANDARD</option>
-<option value="19 TRIANGLE NO MICOTEXTURE.STL">19 TRIANGLE NO MICOTEXTURE</option>
-<option value="19 TRIPPY NO MICROTEXTURE.STL">19 TRIPPY NO MICROTEXTURE</option>
-<option value="19 TRIPPY.STL">19 TRIPPY</option>
-<option value="19-BIGGUS-DICKUS-BIG-CORAL.STL">19-BIGGUS-DICKUS-BIG-CORAL</option>
-<option value="19-BIGGUS-DICKUS-HEX.STL">19-BIGGUS-DICKUS-HEX</option>
-<option value="19-BIGGUS-DICKUS-TRIPPY.STL">19-BIGGUS-DICKUS-TRIPPY</option>
-<option value="19-BLONK.STL">19-BLONK</option>
-<option value="19-BUBBLES.STL">19-BUBBLES</option>
-<option value="19-BUMPS.STL">19-BUMPS</option>
-<option value="19-FLAME.STL">19-FLAME</option>
-<option value="19_SPIRAL.STL">19_SPIRAL</option>
-<option value="19_TRIAD.STL">19_TRIAD</option>
-<option value="19_TRI_S.STL">19_TRI_S</option>
-<option value="19_TWISTY_GRIPPY.STL">19_TWISTY_GRIPPY</option>
-<option value="19_DNL.STL">dnl_dd19.2_frame</option>
-<option value="FMDA19.2_1.3.STL">FMDA19.2_1.3</option>
-<option value="19_INVADER_frame.STL">invader_g19_frame</option>
-</select>
-<br>
-    <label for="slide">Slide</label>
-<select class ="form-select" name="slide" id="slide" onchange="myFunction()">
-    <option value="PSA_STANDARD_FDE">PSA DAGGER SLIDE ASSEMBLY, NON-THREADED BARREL, CARRY CUT, FDE</option>
-    <option value="PSA_STANDARD_BLK">PSA DAGGER SLIDE ASSEMBLY, NON-THREADED BARREL, CARRY CUT, BLACK DLC</option>
-    <option value="PSA_STANDARD_GRY">PSA DAGGER SLIDE ASSEMBLY, NON-THREADED BARREL, CARRY CUT, GREY</option>
-    <option value="PSA_STANDARD_SGR">PSA DAGGER SLIDE ASSEMBLY, NON-THREADED BARREL, CARRY CUT, SNIPER GREEN</option>
-</select>
-<br>
-<div class="form-row">
-    <input type="color" id="color" name="head" onchange="color_update()"
-           value="#FFFFFF">
-    <label for="head">Frame Color</label>
-    <button onclick="find_same_color()" id ="find_btn"> Find Closest PLA</button>
+<body>
+  <div id="bg1"></div>
+  <div id="bg2"></div>
+  <div id="container">
+    <div id="content">
+      <div class="cartridge black-bg-small">
+        緊急
+      </div>
+      <br/>
+      <br/>
+      <div class="main black-bg">
+        <span class="scrolling">
+        <div class="secondary">THIS WEBSITE WILL LOAD</div>
+        <h1 class="bigtext">WARNING </h1>
+        <div class="secondary">STLS IN YOUR BROWSER</div>
+        </span>
+        <a class="secondary" href = "/demo.html"> Click Here to Enter Anyway </a>
+      </div>
+      <br/>
+      <div class="cartridge black-bg-small">
+        緊急
+      </div>
     </div>
-<div id = "pla_link"></div>
-</div>
-
-    <div id = "demo" class=stlviewer data-src=19-BLONK.STL ></div>
+  </div>
 </body>
+</html>
