@@ -279,11 +279,11 @@ scene.add(light);
             
             mesh.rotation.x  -= Math.PI/4;
         */        // Pull the camera away as needed
+        //camera.rotation.z  -= Math.PI;
         var largestDimension = Math.max(geometry.boundingBox.max.x,
             geometry.boundingBox.max.y, geometry.boundingBox.max.z)
         camera.position.z = largestDimension * 3.3;
         camera.position.x = largestDimension/2 ;
-        //camera.rotation.z  -= Math.PI;
         //camera.rotation.y  -= Math.PI;
         //camera.position.y = largestDimension * 1;
 
