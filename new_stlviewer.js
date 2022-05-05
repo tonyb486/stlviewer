@@ -113,6 +113,10 @@ function STLViewer(elem, model, color_hx) {
         return;
     }
     */
+    let use_glb = true;
+    if(use_glb){
+        model.replace("STL", "glb")
+    }
     var renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
     var camera = new THREE.PerspectiveCamera(70, elem.clientWidth / elem.clientHeight, 1, 1000);
     renderer.setSize(elem.clientWidth, elem.clientHeight);
@@ -124,13 +128,6 @@ function STLViewer(elem, model, color_hx) {
         camera.updateProjectionMatrix();
     }, false);
 
-    var controls = new THREE.ArcballControls(camera, renderer.domElement);
-    controls.enableDamping = true;
-    controls.rotateSpeed = 0.05;
-    controls.dampingFactor = 0.1;
-    controls.enableZoom = true;
-    controls.enablePan = true;
-    controls.autoRotate = false;
 
     var scene = new THREE.Scene();
     bg_col = new THREE.Color("#6A6060");
@@ -161,6 +158,13 @@ scene.add(light);
     bgTexture.wrapS = THREE.MirroredRepeatWrapping;
     bgTexture.wrapT = THREE.MirroredRepeatWrapping;
     //scene.background = bgTexture;
+    var controls = new THREE.ArcballControls(camera, renderer.domElement);
+    controls.enableDamping = true;
+    controls.rotateSpeed = 0.05;
+    controls.dampingFactor = 0.1;
+    controls.enableZoom = true;
+    controls.enablePan = true;
+    controls.autoRotate = false;
     controls.addEventListener( 'change', function () {
 	    renderer.render( scene, camera );
     } );
@@ -212,7 +216,9 @@ scene.add(light);
         parts.rotation.z  -= Math.PI/4;
         */
    });
-    (new THREE.STLLoader()).load(model, function (geometry) {
+    (new THREE.GLTFLoader()).load(model, function (geometry) {
+        geometry = geometry.scene.children[0].geometry; 
+        geometry.computeVertexNormals(false)
         var material = new THREE.MeshPhongMaterial({ color: color_hx, specular: 100, shininess: 65 });
         var mesh = new THREE.Mesh(geometry, material);
         hold_frame = mesh
